@@ -1,0 +1,3 @@
+# Exclude exported Modrinth/CurseForge files
+/*.zip
+*.mrpack

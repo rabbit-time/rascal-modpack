@@ -1,0 +1,12 @@
+{
+  "doesWaterHurt": true,
+  "doesProjectileHit": false,
+  "doesStareAnger": true,
+  "canPickUpBlocks": false,
+  "canPlaceBlocks": false,
+  "canTeleport": true,
+  "isPassive": false,
+  "doesSpawnOnMainIsland": true,
+  "mainIslandRadius": 170,
+  "doesEndermiteAnger": true
+}

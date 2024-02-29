@@ -1,0 +1,14 @@
+name = "Better Ladders"
+filename = "betterladdersmod-1.20.x.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/CvgtCmGj/versions/dNSEiEJj/betterladdersmod-1.20.x.jar"
+hash-format = "sha1"
+hash = "ce9974176380512d60d827fb37415002d2fab646"
+
+[update]
+[update.modrinth]
+mod-id = "CvgtCmGj"
+version = "dNSEiEJj"

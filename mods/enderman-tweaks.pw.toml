@@ -1,0 +1,13 @@
+name = "Enderman Tweaks"
+filename = "enderman_tweaks-0.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bHJBwH3B/versions/cH02SgCG/enderman_tweaks-0.3.1.jar"
+hash-format = "sha1"
+hash = "fd9793e9b88e4fed2cb1b331a78d18cee0238b48"
+
+[update]
+[update.modrinth]
+mod-id = "bHJBwH3B"
+version = "cH02SgCG"

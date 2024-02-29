@@ -1,0 +1,13 @@
+name = "Better Clouds"
+filename = "better-clouds-1.3.14+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5srFLIaK/versions/biz2YWXe/better-clouds-1.3.14%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "2a0cd902aa6bfcb700a5637ead1b6f609caabfe8"
+
+[update]
+[update.modrinth]
+mod-id = "5srFLIaK"
+version = "biz2YWXe"

@@ -1,0 +1,13 @@
+name = "Slime"
+filename = "slime-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qpnMRvwM/versions/5aODGQ0x/slime-1.5.jar"
+hash-format = "sha1"
+hash = "e4dac4af69cd5d7e3755dab96c92e8024c223669"
+
+[update]
+[update.modrinth]
+mod-id = "qpnMRvwM"
+version = "5aODGQ0x"

@@ -1,0 +1,99 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				tropical_fish = true
+				bat = true
+				squid = true
+				rabbit = true
+				axolotl = true
+				cow = true
+				item = true
+				glow_squid = true
+				sheep = true
+				villager = true
+				turtle = true
+				chicken = true
+				allay = true
+				area_effect_cloud = true
+				armor_stand = true
+				creeper = true
+				spider = true
+				drowned = true
+				enderman = true
+				skeleton = true
+				zombie = true
+				horse = true
+				iron_golem = true
+				bee = true
+				boat = true
+				pig = true
+				experience_bottle = true
+				experience_orb = true
+				cat = true
+				zombie_villager = true
+				zombified_piglin = true
+				slime = true
+				witch = true
+				cod = true
+				dolphin = true
+				salmon = true
+				arrow = true
+				fox = true
+				wolf = true
+				donkey = true
+				cave_spider = true
+				frog = true
+				leash_knot = true
+				husk = true
+				stray = true
+				polar_bear = true
+
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				coral_snake = true
+				butterfly = true
+				snake = true
+				lizard = true
+				bear = true
+				firefly = true
+				bluejay = true
+				canary = true
+				bass = true
+				finch = true
+				boar = true
+				robin = true
+				cardinal = true
+				snail = true
+				sparrow = true
+
+			[light_sources.settings.entities.supplementaries]
+				red_merchant = true
+
+			[light_sources.settings.entities.majruszsdifficulty]
+				illusioner = true
+				tank = true
+				creeperling = true
+
