@@ -3,7 +3,7 @@
 ![release](https://img.shields.io/github/v/release/rabbit-time/rascal-modpack?logo=github&color=22272E)
 ![issues](https://img.shields.io/github/issues-raw/rabbit-time/rascal-modpack?style=flat&label=issues&color=22272E&logo=github)
 ![license](https://img.shields.io/github/license/rabbit-time/rascal-modpack?style=flat)
-![mods](https://img.shields.io/github/directory-file-count/rabbit-time/rascal-modpack/overrides/mods?type=file&style=flat&label=mods)
+![mods](https://img.shields.io/github/directory-file-count/rabbit-time/rascal-modpack/mods?type=file&style=flat&label=mods)
 ![fabric-loader](https://img.shields.io/badge/fabric--loader-0.15.6-blue?style=flat)
 ![fabric-api](https://img.shields.io/badge/fabric--api-0.92.0-blue?style=flat)
 
