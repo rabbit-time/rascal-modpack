@@ -1443,6 +1443,11 @@ hash = "6992619452254eac894dbaaaff722c4dfa3d3576405f1b3c4d9782fe98aaf7e1"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "9e3edbc66f06eac2f4486b52223cd19ad80a4c967162615959ddd183064d0f12"
+metafile = true
+
+[[files]]
 file = "mods/dyed.pw.toml"
 hash = "517b6c4e7243c8b6544619ea49362b8e6e513dfc82ddce8bed76c4e7c551dc4d"
 metafile = true
@@ -1980,6 +1985,11 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "a0a63344406ba71a8ac37f1b27fd1425914af104bdf4eda6d7c8d2b82250a555"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
