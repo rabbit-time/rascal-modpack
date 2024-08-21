@@ -29,16 +29,15 @@
   },
   "pack_overrides": {
     "fixed": [
-      "vanilla",
-      "fabric", 
-      "presencefootsteps:default_sound_pack",
-      "minecraft:supporteatinganimation",
-      "continuity:default",
+      "file/FreshAnimations_v1.9.2.zip",
       "continuity:glass_pane_culling_fix",
-      "file/FreshAnimations_v1.9.2.zip"
+      "continuity:default",
+      "minecraft:supporteatinganimation",
+      "presencefootsteps:default_sound_pack",
+      "fabric",
+      "vanilla"
     ],
     "$$fixed": {
-      "fixed_position": true,
       "required": true
     }
   }
