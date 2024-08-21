@@ -157,6 +157,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [LazyDFU](https://modrinth.com/mod/lazydfu)
 - [Lithium](https://modrinth.com/mod/lithium)
 - [ModernFix](https://modrinth.com/mod/modernfix)
+- [Noisium](https://modrinth.com/mod/noisium)
 - [Shield Fixes](https://modrinth.com/mod/shield-fixes)
 - [Sodium](https://modrinth.com/mod/sodium)
 
