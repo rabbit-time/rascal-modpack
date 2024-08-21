@@ -141,6 +141,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Resource Pack Overrides](https://modrinth.com/mod/resource-pack-overrides)
 - [Slime](https://modrinth.com/mod/slime)
 - [Smarter Farmers](https://modrinth.com/mod/smarter-farmers-farmers-replant)
+- [Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)
 - [Smooth Swapping](https://modrinth.com/mod/smooth-swapping)
 - [Sounds](https://modrinth.com/mod/sound)
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
