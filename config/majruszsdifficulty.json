@@ -177,11 +177,13 @@
       "chance": 1.0,
       "is_scaled_by_crd": true
     },
-    "is_enabled": true,
     "experience_bonus": {
-      "__default": 0.0,
-      "expert": 0.2,
-      "master": 0.4
+      "is_enabled": true,
+      "extra_multiplier": {
+        "__default": 0.0,
+        "expert": 0.2,
+        "master": 0.4
+      }
     },
     "jockey_spawn": {
       "is_enabled": true,
@@ -751,6 +753,10 @@
     "other_applicable_mobs": [
       "minecraft:player",
       "minecraft:villager"
+    ],
+    "immune_mobs": [
+      "minecraft:zombie_horse",
+      "minecraft:skeleton_horse"
     ],
     "effect": {
       "__default": {

@@ -4,8 +4,8 @@
 ![issues](https://img.shields.io/github/issues-raw/rabbit-time/rascal-modpack?style=flat&label=issues&color=22272E&logo=github)
 ![license](https://img.shields.io/github/license/rabbit-time/rascal-modpack?style=flat)
 ![mods](https://img.shields.io/github/directory-file-count/rabbit-time/rascal-modpack/mods?type=file&style=flat&label=mods)
-![fabric-loader](https://img.shields.io/badge/fabric--loader-0.15.6-blue?style=flat)
-![fabric-api](https://img.shields.io/badge/fabric--api-0.92.0-blue?style=flat)
+![fabric-loader](https://img.shields.io/badge/fabric--loader-0.15.11-blue?style=flat)
+![fabric-api](https://img.shields.io/badge/fabric--api-0.92.2-blue?style=flat)
 
 Rascal modpack aims to not only improve the vanilla Minecraft experience, but to greatly expand on the empty parts of the game as well. It's not just vanilla plus - it's vanilla overhaul! This modpack was designed with gameplay, balance, quality of life, and performance in mind. It was crafted with a lot of love and I sincerely hope that you enjoy it!
 

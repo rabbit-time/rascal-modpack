@@ -1,13 +1,13 @@
 name = "Linkart"
-filename = "linkart-5.4.1-1.20.2.jar"
+filename = "Linkart-5.4.4-1.20.2-build.133.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sc4Mu9Zu/versions/TkPflWpl/linkart-5.4.1-1.20.2.jar"
+url = "https://cdn.modrinth.com/data/sc4Mu9Zu/versions/Q5uOl5CL/Linkart-5.4.4-1.20.2-build.133.jar"
 hash-format = "sha1"
-hash = "27d54d58d904b366b9221fcbd14315369a356388"
+hash = "94f16d5d123cc460298917b1dd44266d2e28dffe"
 
 [update]
 [update.modrinth]
 mod-id = "sc4Mu9Zu"
-version = "TkPflWpl"
+version = "Q5uOl5CL"

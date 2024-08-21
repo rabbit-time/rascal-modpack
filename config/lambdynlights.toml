@@ -70,6 +70,20 @@ mode = "fancy"
 				husk = true
 				stray = true
 				polar_bear = true
+				llama = true
+				tnt_minecart = true
+				chest_minecart = true
+				illusioner = true
+				painting = true
+				item_frame = true
+				parrot = true
+				ocelot = true
+				pillager = true
+				potion = true
+				evoker = true
+				vindicator = true
+				lightning_bolt = true
+				goat = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
@@ -88,6 +102,13 @@ mode = "fancy"
 				cardinal = true
 				snail = true
 				sparrow = true
+				duck = true
+				lion = true
+				zebra = true
+				rattlesnake = true
+				rhino = true
+				catfish = true
+				alligator = true
 
 			[light_sources.settings.entities.supplementaries]
 				red_merchant = true
@@ -96,4 +117,12 @@ mode = "fancy"
 				illusioner = true
 				tank = true
 				creeperling = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				copper_golem = true
+				moobloom = true
+				rascal = true
+				mauler = true
+				iceologer = true
 

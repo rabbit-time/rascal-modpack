@@ -179,8 +179,8 @@
 				"allocated_memory": true,
 				"cpu": true,
 				"display": false,
-				"gpu": false,
-				"gpu_utilization": false,
+				"gpu": true,
+				"gpu_utilization": true,
 				"opengl_version": false,
 				"gpu_driver": false
 			}

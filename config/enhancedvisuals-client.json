@@ -10,11 +10,11 @@
       "opacity": 1.0,
       "dust": {
         "disabled": false,
-        "opacity": 1.0,
+        "opacity": 0.24918033,
         "animationSpeed": 0,
         "scale": {
-          "min": 0.2,
-          "max": 1
+          "min": 0.25,
+          "max": 0.75
         }
       },
       "dustDuration": {
@@ -22,10 +22,10 @@
         "max": 1000
       },
       "dustAmount": {
-        "min": 0,
-        "minValue": 0,
-        "max": 20,
-        "maxValue": 30
+        "min": 5,
+        "minValue": 5,
+        "max": 25,
+        "maxValue": 35
       },
       "maxExplosionVolume": 0.4,
       "explosionSoundTime": {
@@ -47,13 +47,13 @@
       "explosionBlurTime": {
         "min": 0,
         "minValue": 10,
-        "max": 20,
-        "maxValue": 20
+        "max": 25,
+        "maxValue": 25
       }
     },
     "potion": {
       "enabled": true,
-      "opacity": 1.0,
+      "opacity": 0.34534535,
       "duration": {
         "min": 30,
         "max": 60
@@ -66,10 +66,10 @@
     },
     "sand": {
       "enabled": true,
-      "opacity": 0.5,
+      "opacity": 0.2483871,
       "duration": {
-        "min": 100,
-        "max": 100
+        "min": 25,
+        "max": 50
       },
       "sprintModifier": 1.5,
       "sand": {
@@ -77,8 +77,8 @@
         "opacity": 1.0,
         "animationSpeed": 0,
         "scale": {
-          "min": 0.1,
-          "max": 0.3
+          "min": 0.05,
+          "max": 0.2
         }
       }
     },
@@ -156,8 +156,8 @@
         "opacity": 1.0,
         "animationSpeed": 0,
         "scale": {
-          "min": 0.2,
-          "max": 1
+          "min": 1,
+          "max": 1.5
         }
       },
       "fireSplashes": 1,
@@ -339,7 +339,7 @@
       "maxHealthPercentage": 0.3,
       "heartbeatOverlayIntensity": 0.5,
       "heartbeatOverlayDuration": 20,
-      "heartbeatBlurIntensity": 50.0,
+      "heartbeatBlurIntensity": 65.0,
       "heartbeatBlurDuration": 5,
       "minHeartbeatLength": 15,
       "heartbeatTimeFactor": 100.0,
@@ -363,6 +363,49 @@
         "disabled": false,
         "opacity": 1.0
       }
+    },
+    "rain": {
+      "enabled": true,
+      "opacity": 0.24924925,
+      "duration": {
+        "min": 25,
+        "max": 50
+      },
+      "drop": {
+        "disabled": false,
+        "opacity": 1.0,
+        "animationSpeed": 0,
+        "scale": {
+          "min": 0.4,
+          "max": 0.8
+        },
+        "red": 41,
+        "green": 76,
+        "blue": 100,
+        "alpha": 255
+      },
+      "delay": {
+        "min": 0,
+        "max": 0
+      },
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    "health": {
+      "enabled": false,
+      "opacity": 1.0,
+      "impact": {
+        "disabled": false,
+        "opacity": 1.0,
+        "animationSpeed": 0,
+        "scale": {
+          "min": 0.2,
+          "max": 1
+        }
+      },
+      "particlesPerDamage": 1
     }
   }
 }
