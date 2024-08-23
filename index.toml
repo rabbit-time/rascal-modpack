@@ -1278,6 +1278,11 @@ file = "mods/auditory-0.0.6-1.20.1.jar"
 hash = "ce6df724c0ee54ed4fe502efc2d3cec4ca79c275048a7eb2ce9b601b3fe11b88"
 
 [[files]]
+file = "mods/auditory-continued.pw.toml"
+hash = "3f05d2ae8352c982c9c3e7fe0b3a22b8845be2b89a6a113aeb8cf00346062577"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d8c757f4a1f9d3abef4a3b25a889af423003a9b8af300d6e3e243f3f53f4d152"
 metafile = true

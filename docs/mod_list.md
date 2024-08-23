@@ -6,7 +6,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Allay in a Bottle](https://modrinth.com/mod/allaybottle)
 - [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 - [Amplified Nether](https://modrinth.com/mod/amplified-nether)
-- [Auditory](https://modrinth.com/mod/auditory/versions#all-versions)
+- [Auditory Continued](https://modrinth.com/mod/auditory-continued)
 - [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated)
 - [BetterLeads](https://modrinth.com/mod/betterleads)
 - [Better Ladders](https://modrinth.com/mod/better-ladders)
