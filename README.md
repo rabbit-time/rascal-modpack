@@ -27,7 +27,7 @@ Here are some of the major features included in this modpack:
 - Experience storage (at a cost)
 - Numerous quality of life features
 
-A full list of mods can be found [here](./docs/mod_list.md).
+A full list of mods are credited [here](./docs/mod_list.md) and [here](./docs/resourcepack_list.md) for resource packs.
 
 ## Guide
 A written [guide](./docs/guide.md) is available to help players orient themselves with basic gameplay mechanics and explore the best features in this modpack. It is **highly recommended** to utilize the guide.
