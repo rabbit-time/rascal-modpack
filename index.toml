@@ -582,7 +582,7 @@ hash = "a7ca188ef644089b3b52ac767895e3230c2b904f9243b562914ae5ae55090097"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "719300e41cd8c744b3af330c3c652dec8f92f8cdfc3713d98ff299cfdf10cca9"
+hash = "cfe6223e87b4101f9216b2d19ad0bc80763172184a2f34dd35a987cce7921b86"
 
 [[files]]
 file = "config/rrp.properties"
@@ -2148,6 +2148,10 @@ hash = "babc10d10c8b5be88429d738b151e3bc8c50881badfd916122ce90eb2386b307"
 [[files]]
 file = "resourcepacks/8-track music discs 1.20 v1.1.zip"
 hash = "fd1f6da94d64f2bf09b7ba16049180a9e5f0fa27acb7d88a22f066990c43939f"
+
+[[files]]
+file = "resourcepacks/Artisan's Armory Compats v1.1.zip"
+hash = "3e220d5aa175799b97a5489923099af18e495349a457c23e62fe8dd4b52805b3"
 
 [[files]]
 file = "resourcepacks/Artisans_Armory_2-0.zip"
