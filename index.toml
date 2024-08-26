@@ -253,6 +253,10 @@ file = "config/dismountentity.json5"
 hash = "cd79d2b2a8ecb73f72640fe0ea42b93cb85b618d58177160ba6de1b9b5a0d42e"
 
 [[files]]
+file = "config/durabilitytooltip-common.toml"
+hash = "33dce8db596480e5101c5238a89a62ad1cb5231e1afdf7ca206e79ea8ab9cd4a"
+
+[[files]]
 file = "config/easyanvils-client.toml"
 hash = "fff4210e9ad19b4bab956b748ffc7ed0a580aeb0b78dee2e8254e335f707c74d"
 
@@ -578,7 +582,7 @@ hash = "a7ca188ef644089b3b52ac767895e3230c2b904f9243b562914ae5ae55090097"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "342087c61dd6feb804f86fd90a1d227a5c468f2fd2f2da7b363ef940b1d44d1a"
+hash = "719300e41cd8c744b3af330c3c652dec8f92f8cdfc3713d98ff299cfdf10cca9"
 
 [[files]]
 file = "config/rrp.properties"
@@ -630,7 +634,7 @@ hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
 
 [[files]]
 file = "config/soul_fire_d-common.toml"
-hash = "403c15c315cdcb0c21b54e071ad0506b477a7bff34d8aab32e8ebdb3f1979076"
+hash = "7b97f279439d440fcceab558c1030af23a12e4057341ee8827ed09f680c5cf1c"
 
 [[files]]
 file = "config/soulfired-common.toml"
@@ -1274,10 +1278,6 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
-file = "mods/auditory-0.0.6-1.20.1.jar"
-hash = "ce6df724c0ee54ed4fe502efc2d3cec4ca79c275048a7eb2ce9b601b3fe11b88"
-
-[[files]]
 file = "mods/auditory-continued.pw.toml"
 hash = "3f05d2ae8352c982c9c3e7fe0b3a22b8845be2b89a6a113aeb8cf00346062577"
 metafile = true
@@ -1384,7 +1384,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "e9b44c3f02864a9955000fb77b9521a905094d5d3b66cf84d7c5b7629f53e1dd"
+hash = "ba84a6676f1ab5ae9701bf8ad81903ff6c70ed2fe922da3cb1ffbcaf3218f34a"
 metafile = true
 
 [[files]]
@@ -1844,7 +1844,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+hash = "16d6aa9d44c46852330f1feec8e69bcb9b5409ea38b7f2db02e5dd38b9ecef5e"
 metafile = true
 
 [[files]]
@@ -2202,9 +2202,9 @@ file = "resourcepacks/xali's Potions v1.0.0.zip"
 hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
-hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
+file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
+hash = "3b0cd5c36afebdcd74521a447ca5f2b0d6f9c1c8c8416a9f20d9bedc271a8e1c"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt"
 hash = "978f82c457a9aab3eb39770ee367795bd0cbe2b279a75138947cf50ece9adbba"

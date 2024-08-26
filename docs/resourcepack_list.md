@@ -3,6 +3,7 @@ This is a full list of the resource packs included within this modpack, linked t
 
 - [8-track Music Discs](https://modrinth.com/resourcepack/eight-track-music-disc-countxd)
 - [Artisan's Armory](https://modrinth.com/resourcepack/artisans-armory)
+- [Artisan's Armory Compats](https://modrinth.com/resourcepack/artisans-armory-compats)
 - [Banner Pattern Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)
 - [Better Flame Particles](https://modrinth.com/resourcepack/better-flame-particles)
 - [Capitalized Font](https://modrinth.com/resourcepack/capitalized-font)
