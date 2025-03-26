@@ -1,13 +1,13 @@
 name = "EnhancedVisuals"
-filename = "EnhancedVisuals_FABRIC_v1.8.1_mc1.20.1.jar"
-side = "both"
+filename = "EnhancedVisuals_FABRIC_v1.8.2_mc1.20.1.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/NMATwYXf/EnhancedVisuals_FABRIC_v1.8.1_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/KjL0jE2w/versions/xuNOlNeS/EnhancedVisuals_FABRIC_v1.8.2_mc1.20.1.jar"
 hash-format = "sha1"
-hash = "883eca3e3f25b65883f5abc2f3a43299685bd371"
+hash = "5cd260b32fe7bdb445766a767b7d1e038b4c54f1"
 
 [update]
 [update.modrinth]
 mod-id = "KjL0jE2w"
-version = "NMATwYXf"
+version = "xuNOlNeS"
