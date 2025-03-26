@@ -1419,6 +1419,11 @@ hash = "b1dc4b88272c9c06b71c94d10ab0a88c46ccdf029c4bf350e8c71ee3addcc79b"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "cf8fc65e09bf5baef6b6681de9c505d4ab8661f61f53603544a07ef5df12c20d"
 metafile = true
@@ -1596,6 +1601,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bbe6dfe76d6fd42096d860f1141b06ae51a3adb7cad068fc0d3b8a795a92ce84"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "e7a41a98ebd2e1c84ab76afd7b19868c2bfbb4d410634989bf6376db43834a88"
 metafile = true
 
 [[files]]
@@ -1869,6 +1879,11 @@ hash = "4627a69a0bee4fd64a214c5814cc5f511934ffb206f79751a0f56b86a9f782f4"
 metafile = true
 
 [[files]]
+file = "mods/particular.pw.toml"
+hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a1a46b085bd95632cb041d1cfbe6f0c6ff614edab2856217df5195ea472a7aa9"
 metafile = true
@@ -1891,11 +1906,6 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "e3fb99dcf245b19c4add224893b8cd342c7b3db00c0f708fef9ca368b1a2d94b"
-metafile = true
-
-[[files]]
-file = "mods/resource-pack-overrides.pw.toml"
-hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
 
 [[files]]
@@ -1989,6 +1999,11 @@ hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
+file = "mods/sushi-bar.pw.toml"
+hash = "65fc240fd0e26598a98bfd7decc7e99dac36dec19c74d8aa6b3ab86bf1a76700"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
 metafile = true
@@ -2016,6 +2031,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
@@ -2060,6 +2080,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "9dad7032eb59901f74c258e558fa1680f45849b0f6d4d01a7cbd330b4f9ab0ab"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0fcb0aea2b166825409838e42e22722c027bb5a25cfb776a38aef97cf88351c5"
 metafile = true
 
 [[files]]
