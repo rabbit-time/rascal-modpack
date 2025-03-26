@@ -13,7 +13,6 @@ Rascal modpack aims to not only improve the vanilla Minecraft experience, but to
 Here are some of the major features included in this modpack:
 - A new immersive experience in a world that feels alive
 - Greatly enhanced visuals - even without the shaders
-- Completely refreshed progression system with far more depth
 - Overhauled sound system
 - Terralith world generation
 - Overhauled existing structures
