@@ -1595,6 +1595,11 @@ hash = "2f8f633b0cbe101ea6fbc4a68e8fc0833626291c2db467ab22a79e7f0da2376c"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "3ab548f2dc3b40e9d544b020714390a160c4ad10aa4c2cb8d59e9605abdc818b"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "bbe6dfe76d6fd42096d860f1141b06ae51a3adb7cad068fc0d3b8a795a92ce84"
 metafile = true
@@ -1997,6 +2002,11 @@ metafile = true
 [[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "65fc240fd0e26598a98bfd7decc7e99dac36dec19c74d8aa6b3ab86bf1a76700"
+metafile = true
+
+[[files]]
+file = "mods/symbols-n-stuff.pw.toml"
+hash = "7d86adc147722e14ad758c05196744505eeee59af072b84e2494780959b66e8e"
 metafile = true
 
 [[files]]
