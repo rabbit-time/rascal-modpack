@@ -1279,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/auditory-continued.pw.toml"
-hash = "3f05d2ae8352c982c9c3e7fe0b3a22b8845be2b89a6a113aeb8cf00346062577"
+hash = "45de2a871d5d91e30424619586cd9c91ca02fe873b9c24572e1547056b4e3729"
 metafile = true
 
 [[files]]
@@ -1888,11 +1888,6 @@ hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
 metafile = true
 
 [[files]]
-file = "mods/progression-reborn.pw.toml"
-hash = "69322ef70e03019031e13aa291e9b504970bfef768335d4afa28ed9518a4e2c7"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "41c3e28de159860c04632b40a5f1c2846b7d0b21f419b87d0ee6273aa10cb9a9"
 metafile = true
@@ -2146,40 +2141,32 @@ file = "options.txt"
 hash = "babc10d10c8b5be88429d738b151e3bc8c50881badfd916122ce90eb2386b307"
 
 [[files]]
-file = "resourcepacks/8-track music discs 1.20 v1.1.zip"
-hash = "fd1f6da94d64f2bf09b7ba16049180a9e5f0fa27acb7d88a22f066990c43939f"
+file = "resourcepacks/Artisan's Armory.zip"
+hash = "5cdacff8f524d382a8a87147ce5e7729784f47fb896da5e7f02bb4a0fe9c4143"
 
 [[files]]
-file = "resourcepacks/Artisan's Armory Compats v1.1.zip"
-hash = "3e220d5aa175799b97a5489923099af18e495349a457c23e62fe8dd4b52805b3"
-
-[[files]]
-file = "resourcepacks/Artisans_Armory_2-0.zip"
-hash = "c619b3998104309d9df62e71842e0db55b90fb9a08e67f5ea34703b58f0b578b"
-
-[[files]]
-file = "resourcepacks/Banner Pattern Clarity v1.4 pf8-22.zip"
-hash = "2f506733d76d75e6719d6b5766244244400f2b17301ee965a82bb3a127385bb9"
+file = "resourcepacks/Banner Pattern Clarity v1.5 pf8-34.zip"
+hash = "3afb4dec5716a4292cb6de5118643e9333d701b905237df4bcad12942507f0d1"
 
 [[files]]
 file = "resourcepacks/Capitalized Font - 1.21 - 0.1.zip"
 hash = "cab4b967f9d1816aa15652973a6e37ba23387d07f1cc114065485cf6f0d39a69"
 
 [[files]]
-file = "resourcepacks/EclecticTrove-noconfig-1.19.3-1.2.0.zip"
-hash = "032662a95bfa05a20ba541c3a95257494be34285938ec72c095e4410fb10e615"
+file = "resourcepacks/EclecticTrove-noconfig-1.20.1-1.3.0.zip"
+hash = "7857145523527fe5a3aa402d2c3a8a60aa9e79e8d157d0430c3a885b7192b2ff"
 
 [[files]]
-file = "resourcepacks/FreshAnimations_v1.9.2.zip"
-hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+file = "resourcepacks/FreshAnimations_v1.9.3.zip"
+hash = "aa3812ae5fb96a22590ff2ccb53f589a9de9081c11e1432c871cc11fa87c9252"
 
 [[files]]
-file = "resourcepacks/Pixelated_v1.3_EnhancedVisuals by nox_cgt.zip"
-hash = "46b1744be1c7399d62c64317467a975ef6ca93939b88abc26c344fb0c9dca3d0"
+file = "resourcepacks/Pixelated_v1.3.4_EnhancedVisuals(nox_cgt).zip"
+hash = "1518315dba119be8e2849f39e2e69cec9ca6347acbdf4716752072d9e59f1e95"
 
 [[files]]
-file = "resourcepacks/Simple Grass Flowers v1.6.0.zip"
-hash = "1a2781ba9e68c2a74ddcf7df4a827170b810b41d30a2e10ba26d212a2a8d0d79"
+file = "resourcepacks/Simple Grass Flowers v1.9.4.zip"
+hash = "0802943d06fc38827a9feeb09f7b84e5fbd28608dd1096d259860fe0e3275641"
 
 [[files]]
 file = "resourcepacks/Stefan'sEnchantedBooks 1.20.2.zip"
@@ -2190,25 +2177,21 @@ file = "resourcepacks/VanillaTweaks_r304641.zip"
 hash = "f25d077d3cf3d63167cdcb456d86b4adecf36a36545177e33ab8e39899d6ed0c"
 
 [[files]]
-file = "resourcepacks/better_flame_particles-v2.0-mc1.14x-1.20x-resourcepack.zip"
-hash = "ee87eea8710cf9757004c837f78c5803f4142e763728db8abec6252a1bcafde2"
+file = "resourcepacks/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip"
+hash = "99b77fa139231fcf5980fcaa0ad5b5eabf832d276d15a5bb0138c2e5d9bf4ba8"
 
 [[files]]
 file = "resourcepacks/rascal_modpack_assets.zip"
 hash = "3fe9ac068bca48d918719d5252a9f0b6e9db83062d52d4a20f796c54d974fb06"
 
 [[files]]
-file = "resourcepacks/repottery-v1-3-2.zip"
-hash = "830f9da05c5aabcc836b28a3a1069f1957f78fe4775eacb8a93ad8b760412873"
+file = "resourcepacks/xali's Enchanted Books v1.0.0-beta.2.zip"
+hash = "e91bbbcf1fb77232a4e1d0a2c62b7cd2c3d9e6cb37c0f5a303b95f5892f18ec5"
 
 [[files]]
-file = "resourcepacks/xali's Potions v1.0.0.zip"
-hash = "1a91e9880baeda43bedddcb1e6e78bedc7ed25874732f8d3b2c1063de7c0bd53"
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
+hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip"
-hash = "3b0cd5c36afebdcd74521a447ca5f2b0d6f9c1c8c8416a9f20d9bedc271a8e1c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.2.2.zip.txt"
-hash = "978f82c457a9aab3eb39770ee367795bd0cbe2b279a75138947cf50ece9adbba"
+file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
+hash = "fd6cc473831a2b32506fa59bb42cf5026114365f7947fb1d8f357713e0c26033"

@@ -43,8 +43,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [No Shield Delay](https://modrinth.com/mod/no-shield-delay)
 - [Nullscape](https://modrinth.com/mod/nullscape)
 - [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
-- [Progression Reborn](https://modrinth.com/mod/progression-reborn)
-- [Progression Reborn - Vanilla Crafting](https://modrinth.com/mod/progression-reborn-crafting)
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby)
 - [Shearable Vines](https://modrinth.com/mod/shearable-vines)
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)
