@@ -329,10 +329,6 @@ file = "config/fallingleaves.json"
 hash = "5ecdb13465f88d18ab11d46f1f94dfea11c6418755fb9ca6dd63ab6676e083dd"
 
 [[files]]
-file = "config/farmersdelight.json"
-hash = "050ba20fca66274c6f8d408a07da0c91a9b30f54a0023639ebcb21bda5c0aa5f"
-
-[[files]]
 file = "config/fast-doll.nbt"
 hash = "b8e2a9823c3c1403ef6ab898e1c6b93c570f20c166f56b5f2d36b31924d7cc17"
 
@@ -1573,8 +1569,8 @@ hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "515fa38276d6194d04e920ee1248d98e1d96287c1037efb2ce9989080f2830c6"
 metafile = true
 
 [[files]]

@@ -21,7 +21,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Elytra Trims](https://modrinth.com/mod/elytra-trims)
 - [Enchanted Vertical Slabs](https://modrinth.com/mod/enchanted-vertical-slabs)
 - [Ender Dragon Fight Remastered](https://modrinth.com/datapack/edf-remastered)
-- [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric)
+- [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Friends&Foes](https://modrinth.com/mod/friends-and-foes)
 - [Grass Overhaul](https://modrinth.com/mod/grass-overhaul)
 - [Handcrafted](https://modrinth.com/mod/handcrafted)
