@@ -577,10 +577,6 @@ file = "config/puzzlesapi-slotcycling-client.toml"
 hash = "a7ca188ef644089b3b52ac767895e3230c2b904f9243b562914ae5ae55090097"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
-hash = "cfe6223e87b4101f9216b2d19ad0bc80763172184a2f34dd35a987cce7921b86"
-
-[[files]]
 file = "config/rrp.properties"
 hash = "79b9ecd6ec04188b5c752869f1c6ecdf5d5e0d7543cf1ee6b5af0ed85612ad39"
 
@@ -1280,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "521157a6ceef18844fdb4c8587835046e1f98c1850b721fb5d1f11cc9e875eab"
+hash = "3c8192d74d73deec282083a29caa78efd473b8498b744959b99a7e2901b0410c"
 metafile = true
 
 [[files]]
@@ -1440,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "77c10c81f5f7a30118f101c7d7bd988b442afffb0e5aa543e950298c6bd62d80"
+hash = "f68c4aa11159e9eefb3e1df5d67855fbc382b997bbce7e35e142039207245c83"
 metafile = true
 
 [[files]]
@@ -1710,7 +1706,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "a1ce65a66342fad735191630d36d96acd9b53310879e8585c98e240c4bf33ca8"
+hash = "e2e40b63c7c0aff577b89078a3205cb3ddc773b5c648e2beefe0883efa18e40d"
 metafile = true
 
 [[files]]
@@ -1970,7 +1966,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "e7df183183bf109d46b85ae43ba1528b01d7b096ed52f3e7287e4584d035b1a5"
+hash = "bebd85acd6021b843e64c63a279dedf61875268a51ba69fb91ff86772aaf66bf"
 metafile = true
 
 [[files]]
@@ -2089,7 +2085,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "377d060339a24082ecae23f46b9557a4ee2c923a396741563c1f73c17c223ec3"
+hash = "3fdbd6ec9aaff3bc16c2206c64ec38e81b167e1736ab24840a2d0e9247263863"
 metafile = true
 
 [[files]]
