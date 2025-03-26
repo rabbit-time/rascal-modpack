@@ -78,7 +78,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 - [Better Cloud](https://modrinth.com/mod/better-clouds)
 - [Blur](https://modrinth.com/mod/blur-fabric)
-- [Cave Dust](https://modrinth.com/mod/cave-dust)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Dyed](https://modrinth.com/mod/dyed)

@@ -27,7 +27,7 @@
 	"selectedPreset": 0,
 	"presets": [
 		{
-			"title": "",
+			"title": "Rascal Default",
 			"key": null,
 			"editable": true,
 			"upscale_resolution_factor": 1.0,

@@ -1350,11 +1350,6 @@ hash = "c4df7d7bd024068d9cc6b93ab319da95e536b49531e87dd640891dda73e1c7fb"
 metafile = true
 
 [[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "16c6ee43df40c42c553e2c15c8fc353c010cf8b3f1689f9e19e8b71bd88afbfd"
-metafile = true
-
-[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "ad37110843d7022472a9c71a549317d54758d36504ea1ef09ebbc29429c295d0"
 metafile = true
