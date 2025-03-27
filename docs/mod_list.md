@@ -10,7 +10,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Beautify: Refabricated](https://modrinth.com/mod/beautify-refabricated)
 - [BetterLeads](https://modrinth.com/mod/betterleads)
 - [Better Ladders](https://modrinth.com/mod/better-ladders)
-- [Bountiful](https://modrinth.com/mod/bountiful)
 - [CameraOverhaul](https://modrinth.com/mod/cameraoverhaul)
 - [Comforts](https://modrinth.com/mod/comforts)
 - [Companion](https://modrinth.com/mod/companion)

@@ -15,11 +15,9 @@ mode = "fancy"
 	# Creeper lighting mode. May be off, simple or fancy.
 	creeper = "simple"
 	# TNT lighting mode. May be off, simple or fancy.
-	tnt = "off"
-
-	[light_sources.settings]
-
-		[light_sources.settings.entities]
+	tnt = "fancy"
+	beam = true
+	guardian_laser = true
 
 			[light_sources.settings.entities.minecraft]
 				glow_item_frame = false
@@ -84,6 +82,68 @@ mode = "fancy"
 				vindicator = true
 				lightning_bolt = true
 				goat = true
+				blaze = true
+				block_display = true
+				chest_boat = true
+				camel = true
+				dragon_fireball = true
+				elder_guardian = true
+				end_crystal = true
+				ender_dragon = true
+				endermite = true
+				evoker_fangs = true
+				eye_of_ender = true
+				falling_block = true
+				fireball = true
+				firework_rocket = true
+				fishing_bobber = true
+				ghast = true
+				giant = true
+				guardian = true
+				hoglin = true
+				interaction = true
+				item_display = true
+				llama_spit = true
+				magma_cube = true
+				marker = true
+				minecart = true
+				command_block_minecart = true
+				furnace_minecart = true
+				hopper_minecart = true
+				spawner_minecart = true
+				mooshroom = true
+				mule = true
+				panda = true
+				phantom = true
+				piglin = true
+				piglin_brute = true
+				tnt = true
+				pufferfish = true
+				ravager = true
+				shulker = true
+				shulker_bullet = true
+				silverfish = true
+				skeleton_horse = true
+				small_fireball = true
+				sniffer = true
+				snow_golem = true
+				snowball = true
+				spectral_arrow = true
+				strider = true
+				tadpole = true
+				text_display = true
+				egg = true
+				ender_pearl = true
+				trader_llama = true
+				trident = true
+				vex = true
+				wandering_trader = true
+				warden = true
+				wither = true
+				wither_skeleton = true
+				wither_skull = true
+				zoglin = true
+				zombie_horse = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
@@ -109,6 +169,16 @@ mode = "fancy"
 				rhino = true
 				catfish = true
 				alligator = true
+				caterpillar = true
+				dragonfly = true
+				elephant = true
+				giraffe = true
+				hippo = true
+				lizard_tail = true
+				tortoise = true
+				vulture = true
+				duck_egg = true
+				moose = true
 
 			[light_sources.settings.entities.supplementaries]
 				red_merchant = true
@@ -117,6 +187,9 @@ mode = "fancy"
 				illusioner = true
 				tank = true
 				creeperling = true
+				cerberus = true
+				cursed_armor = true
+				giant = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
@@ -125,4 +198,30 @@ mode = "fancy"
 				rascal = true
 				mauler = true
 				iceologer = true
+				crab = true
+				player_illusion = true
+				tuff_golem = true
+				wildfire = true
+				ice_chunk = true
 
+			[light_sources.settings.entities.niftycarts]
+				animal_cart = true
+				hand_cart = true
+				plow = true
+				postilion = true
+				supply_cart = true
+
+			[light_sources.settings.entities.handcrafted]
+				fancy_painting = true
+				seat = true
+
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
+			[light_sources.settings.entities.snowrealmagic]
+				snow = true
+
+[debug]
+	active_dynamic_lighting_cells = false
+	display_dynamic_lighting_chunk_rebuild = false
+	display_behavior_bounding_box = false

@@ -3,6 +3,7 @@
 	#(Default = "default_mode") Choose any of the following healing modes by copying one of the strings and pasting it into the value of the "mode" setting below:
 	#- "default_mode", "daytime_healing_mode", "difficulty_based_healing_mode", "blast_resistance_based_healing_mode"
 	mode = "default_mode"
+
 #Configure which explosions are allowed to heal.
 [explosion_sources]
 	#(Default = true) Heal explosions caused by Creepers.
@@ -19,6 +20,7 @@
 	heal_bed_and_respawn_anchor_explosions = false
 	#(Default = false) Heal explosions caused by End Crystals.
 	heal_end_crystal_explosions = false
+
 #Toggle whether certain explosion should drop items. Does not include items stored in container blocks.
 [explosion_item_drops]
 	#(Default = true) Whether to drop items when a creeper explodes.
@@ -35,12 +37,14 @@
 	drop_items_on_bed_and_respawn_anchor_explosions = true
 	#(Default = true) Whether to drop items when an end crystal explodes.
 	drop_items_on_end_crystal_explosions = true
+
 #Configure the delays related to the healing of explosions.
 [delays]
 	#(Default = 3) How much time in seconds should an explosion wait for to begin healing.
 	explosion_heal_delay = 120.0
 	#(Default = 1) The time in seconds that a block takes to heal.
 	block_placement_delay = 0.25
+
 #Toggleable settings for extra features.
 [preferences]
 	#(Default = true) Whether a block placement sound effect should be played when a block is healed.
@@ -57,12 +61,14 @@
 	force_blocks_with_nbt_to_always_heal = false
 	#(Default = true) Allows for a falling block, like sand or gravel, to fall when healed. Disabling this option makes the falling block have to receive a neighbor update before falling.
 	make_falling_blocks_fall = true
+
 # Use an optional whitelist to customize which blocks are allowed to heal. To add an entry, specify the block's namespace
 #along with its identifier, separated by a colon and enclosed in double quotes, and add it in-between the square brackets below. Separate each entry with a comma.
 #Example entries:
 #whitelist_entries = ["minecraft:grass",  "minecraft:stone", "minecraft:sand"]
 [whitelist]
 	whitelist = ["minecraft:placeholder"]
+
 #Add your own replace entries to configure which blocks should be used to heal other blocks. The block on the right will be used to heal the block on the left.
 #Specify the block's namespace along with the block's name identifier, separated by a colon and enclosed in double quotes.
 #Example entry:

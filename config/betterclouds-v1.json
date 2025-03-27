@@ -7,7 +7,7 @@
 	"yRange": 64.0,
 	"yOffset": 0.0,
 	"sparsity": 0.0,
-	"spacing": 5.5,
+	"spacing": 2.0,
 	"sizeXZ": 16.0,
 	"sizeY": 8.0,
 	"travelSpeed": 0.03,
@@ -18,7 +18,7 @@
 	"chunkSize": 32,
 	"samplingScale": 1.0,
 	"scaleFalloffMin": 0.25,
-	"fadeEdge": 0.15,
+	"fogRangeFactor": 1.0,
 	"usePersistentBuffers": true,
 	"useFrustumCulling": true,
 	"irisSupport": true,
@@ -27,7 +27,7 @@
 	"selectedPreset": 0,
 	"presets": [
 		{
-			"title": "Rascal Default",
+			"title": "",
 			"key": null,
 			"editable": true,
 			"upscale_resolution_factor": 1.0,
@@ -38,7 +38,7 @@
 			"sunset_start_time": 10837,
 			"sunset_end_time": 12785,
 			"day_brightness": 1.0,
-			"night_brightness": 3.3999999,
+			"night_brightness": 1.0,
 			"saturation": 1.1,
 			"opacity": 0.2,
 			"opacity_factor": 1.0,
@@ -273,5 +273,27 @@
 	"gpuIncompatibleMessageEnabled": true,
 	"enabledDimensions": [
 		"minecraft:overworld"
-	]
+	],
+	"sereneSeasonsConfig": {
+		"transition_days": 2.0,
+		"early_spring_cloudiness": 1.2,
+		"mid_spring_cloudiness": 1.0,
+		"late_spring_cloudiness": 0.9,
+		"early_summer_cloudiness": 0.8,
+		"mid_summer_cloudiness": 0.7,
+		"late_summer_cloudiness": 0.8,
+		"early_autumn_cloudiness": 0.9,
+		"mid_autumn_cloudiness": 1.0,
+		"late_autumn_cloudiness": 1.2,
+		"early_winter_cloudiness": 1.3,
+		"mid_winter_cloudiness": 1.4,
+		"late_winter_cloudiness": 1.3
+	},
+	"fabricSeasonsConfig": {
+		"transition_days": 4.0,
+		"spring_cloudiness": 1.0,
+		"summer_cloudiness": 0.7,
+		"fall_cloudiness": 1.0,
+		"winter_cloudiness": 1.4
+	}
 }

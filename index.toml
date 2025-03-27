@@ -1340,11 +1340,6 @@ hash = "b6020337989765a965b16f1edd24db2c1b1f2179bac2c05423a375455e087671"
 metafile = true
 
 [[files]]
-file = "mods/bountiful.pw.toml"
-hash = "bc89870afdbd128e0299919856c7d4a6ce5f5abb4dc43870e29388078cb4711e"
-metafile = true
-
-[[files]]
 file = "mods/cameraoverhaul.pw.toml"
 hash = "c4df7d7bd024068d9cc6b93ab319da95e536b49531e87dd640891dda73e1c7fb"
 metafile = true

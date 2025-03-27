@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@rabbit_time"
+		"@rabbit_time",
+		"@rascal_time"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
