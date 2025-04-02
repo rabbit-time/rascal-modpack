@@ -30,7 +30,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Immersive Armors](https://modrinth.com/mod/immersive-armors)
 - [Inmis](https://modrinth.com/mod/inmis)
 - [Interactic](https://modrinth.com/mod/interactic)
-- [InvMove](https://modrinth.com/mod/invmove)
 - [Linkart](https://modrinth.com/mod/linkart)
 - [Map Atlases](https://modrinth.com/mod/map-atlases)
 - [Majrusz's Progressive Difficulty](https://modrinth.com/mod/majruszs-progressive-difficulty)
