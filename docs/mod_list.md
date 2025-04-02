@@ -86,7 +86,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [First-person Model](https://modrinth.com/mod/first-person-model)
 - [InmisAddon](https://modrinth.com/mod/inmisaddon)
-- [Item Borders](https://modrinth.com/mod/item-borders)
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 - [LegendaryTooltips](https://modrinth.com/mod/legendary-tooltips)
 - [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)

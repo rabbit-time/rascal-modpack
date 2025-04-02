@@ -1680,11 +1680,6 @@ hash = "0c76ff10971db8501866e5d2f855e6a466838e5b123fbd72bbf35ed3dd4a32ad"
 metafile = true
 
 [[files]]
-file = "mods/item-borders.pw.toml"
-hash = "73d37e2743f413f9e0d55a0dad15240093cf22c4b856e8539058d84632ad1f5f"
-metafile = true
-
-[[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
 metafile = true
