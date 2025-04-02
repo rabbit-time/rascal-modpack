@@ -1,3 +1,4 @@
 # Exclude exported Modrinth/CurseForge files
 /*.zip
 *.mrpack
+/Rascal Modpack*
