@@ -1226,7 +1226,7 @@ hash = "b26267df5d40051b044998abde020d7fcdb1c3ee3ad1c6ce6f8d7c05fc83b715"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "bce98655a8677094d7f0081b6304e8eef248a71e960a513fee9c0128838c99b3"
+hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
 
 [[files]]
@@ -1276,7 +1276,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3c8192d74d73deec282083a29caa78efd473b8498b744959b99a7e2901b0410c"
+hash = "af35b89dd62818ffb579ca1aa2314fb7bec49cbc4eda1d312b1733c50f6be352"
 metafile = true
 
 [[files]]
@@ -1286,7 +1286,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "ff544dc85bdae7c60b989171592851ee474f6d6d90d48e0f22ef635de512524d"
+hash = "9bcbec1c6054c7b2677c0cde16a22d344e094668fbcb97b3aa34999ba7b1c2f5"
 metafile = true
 
 [[files]]
@@ -1371,7 +1371,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fe40be63d89f367bbfa348c28b43748f99617baa05c91769487f606618218a9d"
+hash = "1e2f635d773d5761ede9b3372ed221f654f8ec8cdcd06ec7e23608505d880946"
 metafile = true
 
 [[files]]
@@ -1496,7 +1496,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "22fc5e574c6950e8284ef2df5b2753bb0d9da67b0420e1e817f64c5b53d1bdda"
+hash = "123f4636e3ac3f0bf28070f8b886af36d73bb3ab2d47a937653a27e9d2181ac2"
 metafile = true
 
 [[files]]
@@ -1526,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6e7d67f7a330c3e01c2c3879fa1a507045c6a6dee92f839048c74b7fc946441c"
+hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
 metafile = true
 
 [[files]]
@@ -1571,7 +1571,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "945858c6aca370a3c9c11fb0cf34c25da588ae3e04543337e38dfdca454bac92"
+hash = "0d4415e0907d5a8e1add15b85f6afab4dff91f5543fc0d87b52800330448caad"
 metafile = true
 
 [[files]]
@@ -1581,12 +1581,12 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "2f8f633b0cbe101ea6fbc4a68e8fc0833626291c2db467ab22a79e7f0da2376c"
+hash = "e7ab9c515e807471100c60ab777f2018384b212b6e91fbabb237031fcd32374b"
 metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3ab548f2dc3b40e9d544b020714390a160c4ad10aa4c2cb8d59e9605abdc818b"
+hash = "ebd0d16046fb2c4c48959e842febec628bf4df6096a4548e03347d264c1d0b9a"
 metafile = true
 
 [[files]]
@@ -1596,7 +1596,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "e7a41a98ebd2e1c84ab76afd7b19868c2bfbb4d410634989bf6376db43834a88"
+hash = "1950cc9e81e89586672663fb9b2c64b5770b3c6bedb2d4893165b1b7063899f2"
 metafile = true
 
 [[files]]
@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a0b3e7b1bfe76038213d976c4a4ff517bd93d6bb118c5aa7e9400bad3e820d0e"
+hash = "57ea25e227f51134932bc2a95b9eada19493dbc495b14cb86251a71377e85197"
 metafile = true
 
 [[files]]
@@ -1876,7 +1876,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "a1a46b085bd95632cb041d1cfbe6f0c6ff614edab2856217df5195ea472a7aa9"
+hash = "a27d8585b88946ca03f3476a70e1679a113d3059f2daf68581bd1d70994ac137"
 metafile = true
 
 [[files]]
@@ -1921,7 +1921,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "0c47a4d2f67d489eacb1df95e7643910fed235aa616d738b2ccc5413a7d36cf6"
+hash = "56f1f60b00d45962d003549eb333cd51432b224591d93ed029b4cc45732479bd"
 metafile = true
 
 [[files]]
@@ -2075,7 +2075,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "9dad7032eb59901f74c258e558fa1680f45849b0f6d4d01a7cbd330b4f9ab0ab"
+hash = "3d9269ee3abd9c59ea81890ce33b59c9caa903cab2e90854f1e414223956a81e"
 metafile = true
 
 [[files]]

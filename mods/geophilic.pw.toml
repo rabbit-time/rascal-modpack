@@ -1,13 +1,13 @@
 name = "Geophilic"
-filename = "Geophilic v3.3 f15-71.jar"
+filename = "Geophilic Snap 3.4-c f15-71.mod.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hl5OLM95/versions/eqty9cdl/Geophilic%20v3.3%20f15-71.jar"
-hash-format = "sha1"
-hash = "7c665b559a99ab9d7802881fd96099e427641502"
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/sytCq9nJ/Geophilic%20Snap%203.4-c%20f15-71.mod.jar"
+hash-format = "sha512"
+hash = "2b5aaebedfe5d513ee50e46a19e050e0180d277cfe94c6257f60f2a6fb54bc9d25d89ac390c6f9f0673d91e34c362d6389317b893100683accd141d3c925da6e"
 
 [update]
 [update.modrinth]
 mod-id = "hl5OLM95"
-version = "eqty9cdl"
+version = "sytCq9nJ"
