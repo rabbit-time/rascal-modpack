@@ -124,6 +124,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [FastDoll](https://modrinth.com/mod/fastdoll)
 - [GUI Clock](https://modrinth.com/mod/gui-clock)
 - [GUI Compass](https://modrinth.com/mod/gui-compass)
+- [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning)
 - [Immersive Thunder](https://modrinth.com/mod/immersivethunder)
 - [Language Reload](https://modrinth.com/mod/language-reload)
 - [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)
