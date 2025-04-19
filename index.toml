@@ -1477,11 +1477,6 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
-file = "mods/enchanted-vertical-slabs.pw.toml"
-hash = "5220911f55bb90ae3caa31fe7f7deb14dadc3b2f30b54277890100e37d87b619"
-metafile = true
-
-[[files]]
 file = "mods/enderman-tweaks.pw.toml"
 hash = "fd51d02756830e6c7fd064a63e25d745d3aeecc784573a72b9425aa32dfc7b2e"
 metafile = true
