@@ -31,7 +31,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Interactic](https://modrinth.com/mod/interactic)
 - [Linkart](https://modrinth.com/mod/linkart)
 - [Map Atlases](https://modrinth.com/mod/map-atlases)
-- [Majrusz's Progressive Difficulty](https://modrinth.com/mod/majruszs-progressive-difficulty)
 - [MasterCutter](https://modrinth.com/datapack/mastercutter)
 - [Naturalist](https://modrinth.com/mod/naturalist)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)

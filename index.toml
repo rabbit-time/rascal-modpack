@@ -1218,7 +1218,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f90cf46a642c3d2d8043454397441a9e6e53f55b0d768af0760305a214d5e695"
+hash = "11f83389ea240430775168bb29e3a7c26096a58b1c2406e49a70d04f84006659"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "9bcbec1c6054c7b2677c0cde16a22d344e094668fbcb97b3aa34999ba7b1c2f5"
+hash = "a8d31e43c8f82882cc4c2b7bdacd76d968d739e157cdae2c80efb58c1990e1c9"
 metafile = true
 
 [[files]]
@@ -1343,7 +1343,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1e2f635d773d5761ede9b3372ed221f654f8ec8cdcd06ec7e23608505d880946"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -1368,7 +1368,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "af346de7aed0fb58198dfc8d5f6674a3b0100a3928d7901f1e75248c8f78d3b9"
+hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
 
 [[files]]
@@ -1398,12 +1398,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "f68c4aa11159e9eefb3e1df5d67855fbc382b997bbce7e35e142039207245c83"
+hash = "dcab5d2d9fce2c003e5f2578c696b41a69d80c16e5748d39cdc9848f72a4b277"
 metafile = true
 
 [[files]]
 file = "mods/dripsounds-fabric.pw.toml"
-hash = "d2da7fc652e0d3fa7cf2c6c89d3d154b4e0ca01acade10eda7bf15eabbb387c4"
+hash = "ad781bf97579feb5ba468b4224fa0ce62c88b5b0f8ecbbe981650229ac4dc8e2"
 metafile = true
 
 [[files]]
@@ -1463,12 +1463,12 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "eaf3db687a810529644a14a1676237fa43bf81ab3a737b01df088cc77c79a4fb"
+hash = "a67d006d388653d15b42cb503db1c7333e1726c90a069b8a669438ea1acd7eb3"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "123f4636e3ac3f0bf28070f8b886af36d73bb3ab2d47a937653a27e9d2181ac2"
+hash = "4e7e3281cfc866276e2efcf603561e9a7a0ad2583db6c5be252a0516a8e5e1ce"
 metafile = true
 
 [[files]]
@@ -1553,7 +1553,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "ebd0d16046fb2c4c48959e842febec628bf4df6096a4548e03347d264c1d0b9a"
+hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
 metafile = true
 
 [[files]]
@@ -1563,7 +1563,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "1950cc9e81e89586672663fb9b2c64b5770b3c6bedb2d4893165b1b7063899f2"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
@@ -1653,12 +1653,12 @@ metafile = true
 
 [[files]]
 file = "mods/kiwi.pw.toml"
-hash = "01513a5937e25677401bf375cceb54dfaab0dd3ccc202cacce36448b3546484b"
+hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "54aeed25984ce2e6d9b10e408300e6ea375d18b431e7f058390e31fda985bccf"
+hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
 metafile = true
 
 [[files]]
@@ -1702,11 +1702,6 @@ hash = "c2e2f7409348534023bdbe5a0ebb8644832a9d24ef728a44ad2ed143df5ce581"
 metafile = true
 
 [[files]]
-file = "mods/majruszs-progressive-difficulty.pw.toml"
-hash = "d03b6d4947f01bee3607149ef25bea246ab258a73729741243e3471bfd4a0ce3"
-metafile = true
-
-[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
 metafile = true
@@ -1718,7 +1713,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
-hash = "d0a54c637ca3cec120a04b2d8dbe2450d30238093bbc5b1b31d3bccaba82c927"
+hash = "1fa21249cf1d3b6c437a9329535fafb0bf86d59a38a9a1fc0a8d8a0947571bb0"
 metafile = true
 
 [[files]]
@@ -1733,7 +1728,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c5d6892d697898109880dd24932bad8fd44151a2592ad532fa3522c42dac0df4"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
@@ -1743,7 +1738,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7b619741780026cd25dd333eb804d7c8f39a9eef227bd1794b53dc928fdb8f28"
+hash = "230c231ae1dcd4ee08b0cacf8c9cd617e7c0b0533609f92dfe82e53287d5a9f7"
 metafile = true
 
 [[files]]
@@ -1838,7 +1833,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "a27d8585b88946ca03f3476a70e1679a113d3059f2daf68581bd1d70994ac137"
+hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
@@ -1853,7 +1848,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "41c3e28de159860c04632b40a5f1c2846b7d0b21f419b87d0ee6273aa10cb9a9"
+hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
@@ -1883,7 +1878,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "56f1f60b00d45962d003549eb333cd51432b224591d93ed029b4cc45732479bd"
+hash = "fcfe9866a204833ec6fedfef0443b2eed6bd3080e303a2b2677b3696c7960023"
 metafile = true
 
 [[files]]
@@ -1923,7 +1918,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "bebd85acd6021b843e64c63a279dedf61875268a51ba69fb91ff86772aaf66bf"
+hash = "d2fbb82f0d2b6112b8b941bb25d7a3bd00deeb6cff220a13feb1248f42ef64d7"
 metafile = true
 
 [[files]]
