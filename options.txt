@@ -36,7 +36,7 @@ simulationDistance:12
 entityDistanceScaling:1.0
 guiScale:4
 particles:0
-maxFps:260
+maxFps:165
 graphicsMode:1
 ao:true
 prioritizeChunkUpdates:0
@@ -162,7 +162,7 @@ key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.706953642384106
+soundCategory_master:0.70
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
