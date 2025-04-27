@@ -119,7 +119,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [EMI Loot](https://modrinth.com/mod/emi-loot)
 - [EMI Trades](https://modrinth.com/mod/emitrades)
 - [Enderman Tweaks](https://modrinth.com/mod/enderman-tweaks)
-- [FastDoll](https://modrinth.com/mod/fastdoll)
 - [GUI Clock](https://modrinth.com/mod/gui-clock)
 - [GUI Compass](https://modrinth.com/mod/gui-compass)
 - [Hide Experimental Warning](https://modrinth.com/mod/hide-experimental-warning)

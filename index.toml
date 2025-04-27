@@ -1532,11 +1532,6 @@ hash = "515fa38276d6194d04e920ee1248d98e1d96287c1037efb2ce9989080f2830c6"
 metafile = true
 
 [[files]]
-file = "mods/fastdoll.pw.toml"
-hash = "88a14f01990d8bb4134beded58377aeda523055f85e9668a228787815a9e48ca"
-metafile = true
-
-[[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "0d4415e0907d5a8e1add15b85f6afab4dff91f5543fc0d87b52800330448caad"
 metafile = true
