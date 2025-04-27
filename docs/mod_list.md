@@ -30,6 +30,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Inmis](https://modrinth.com/mod/inmis)
 - [Interactic](https://modrinth.com/mod/interactic)
 - [Linkart](https://modrinth.com/mod/linkart)
+- [Lodestone Update Backport](https://modrinth.com/datapack/lodestone-update-backport)
 - [Map Atlases](https://modrinth.com/mod/map-atlases)
 - [MasterCutter](https://modrinth.com/datapack/mastercutter)
 - [Naturalist](https://modrinth.com/mod/naturalist)

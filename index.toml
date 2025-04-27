@@ -1687,6 +1687,11 @@ hash = "a5296cda8cb89c99e40de32ab124700f7a6feb922fb37170c7988422e521c6d8"
 metafile = true
 
 [[files]]
+file = "mods/lodestone-update-backport.pw.toml"
+hash = "215ce0ec0522fb87ff1cee536504c081357e04a4a9f561a13b2cb04be1831aef"
+metafile = true
+
+[[files]]
 file = "mods/longer-chat-history.pw.toml"
 hash = "ce8ce58c524ac53153ee9780a2701f0d6d72651c110611505d6e1871b2d2865f"
 metafile = true
