@@ -144,7 +144,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Time and Wind](https://modrinth.com/mod/time-wind)
 - [Trinkets](https://modrinth.com/mod/trinkets)
 - [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh)
-- [Visual Workbench](https://modrinth.com/mod/visual-workbench)
 - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ## Performance & Optimization
