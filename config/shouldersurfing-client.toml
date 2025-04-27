@@ -191,7 +191,7 @@
 
 [player]
 	#Whether or not to adjust the player model transparency when view is obstructed. Changing this value may require a game restart to take full effect.
-	adjust_player_transparency = true
+	adjust_player_transparency = false
 	#The angle at which the player will no longer be rendered when looking up. Set to 0 to disable.
 	#Range: 0.0 ~ 90.0
 	hide_player_when_looking_up_angle = 0.0

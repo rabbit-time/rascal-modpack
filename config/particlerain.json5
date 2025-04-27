@@ -3,7 +3,7 @@
 	"particleDensity": 400,
 	"particleStormDensity": 800,
 	"particleRadius": 25,
-	"doRainParticles": false,
+	"doRainParticles": true,
 	"doSplashParticles": true,
 	"doSmokeParticles": true,
 	"doRippleParticles": true,
@@ -17,13 +17,13 @@
 	"doSnowSounds": true,
 	"doSandSounds": true,
 	"rain": {
-		"density": 100,
+		"density": 80,
 		"gravity": 1.0,
 		"windStrength": 0.30000001192092896,
 		"stormWindStrength": 0.5,
-		"opacity": 100,
+		"opacity": 70,
 		"splashDensity": 5,
-		"size": 2.0
+		"size": 1.5
 	},
 	"snow": {
 		"density": 40,
@@ -35,7 +35,7 @@
 		"size": 2.0
 	},
 	"sand": {
-		"density": 80,
+		"density": 50,
 		"gravity": 0.20000000298023224,
 		"windStrength": 0.30000001192092896,
 		"moteSize": 0.10000000149011612,
@@ -63,7 +63,7 @@
 		"spawnHeight": 64,
 		"size": 8.0
 	},
-	"renderVanillaWeather": true,
+	"renderVanillaWeather": false,
 	"tickVanillaWeather": false,
 	"biomeTint": true,
 	"tintMix": 50,

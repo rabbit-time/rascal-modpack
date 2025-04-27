@@ -8,5 +8,10 @@
   "isPassive": false,
   "doesSpawnOnMainIsland": true,
   "mainIslandRadius": 170,
-  "doesEndermiteAnger": true
+  "doesEndermiteAnger": true,
+  "doesEndermanEmitParticles": true,
+  "endermanParticleRed": 0.9,
+  "endermanParticleGreen": 0.3,
+  "endermanParticleBlue": 1.0,
+  "doesColorApplyToAllPortalParticles": false
 }

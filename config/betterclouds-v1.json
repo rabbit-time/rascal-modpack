@@ -1,5 +1,5 @@
 {
-	"enabled": true,
+	"enabled": false,
 	"distance": 4.0,
 	"randomPlacement": 1.0,
 	"fuzziness": 1.0,

@@ -41,7 +41,7 @@
   "holdUpTarget": "CAMERA",
   "holdUpCameraOffset": 0.1,
   "holdUpOnlySelf": false,
-  "holdUpItemOffset": 0.0,
+  "holdUpItemOffset": -0.4,
   "itemSwapAnimation": true,
   "tweakElytraAnimation": true,
   "petAnimation": true,
@@ -51,6 +51,6 @@
   "narutoRunning": false,
   "enableInWorldBookRendering": false,
   "disableLegSmoothing": false,
-  "bowAnimation": "CUSTOM_V1",
+  "bowAnimation": "VANILLA",
   "burningAnimation": false
 }
