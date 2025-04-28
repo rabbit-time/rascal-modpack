@@ -181,6 +181,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Kiwi](https://modrinth.com/mod/kiwi)
 - [Moonlight Lib](https://modrinth.com/mod/moonlight)
 - [M.R.U](https://modrinth.com/mod/mru)
+- [Necronomicon API](https://modrinth.com/mod/necronomicon)
 - [owo-lib](https://modrinth.com/mod/owo-lib)
 - [Prism](https://modrinth.com/mod/prism-lib)
 - [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
