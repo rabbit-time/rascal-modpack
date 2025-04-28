@@ -127,7 +127,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Language Reload](https://modrinth.com/mod/language-reload)
 - [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)
 - [Longer Chat History](https://modrinth.com/mod/morechathistory)
-- [Manhunt Fabricated](https://modrinth.com/mod/manhunt-fabricated)
 - [Mod Menu](https://modrinth.com/mod/modmenu)
 - [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 - [Nether Portal Fix](https://modrinth.com/mod/netherportalfix)
