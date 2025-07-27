@@ -3,6 +3,7 @@ This is a full list of the resource packs included within this modpack, linked t
 
 - [Artisan's Armory](https://modrinth.com/resourcepack/artisans-armory)
 - [Banner Pattern Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)
+- [Better Boats](https://modrinth.com/resourcepack/better-boats?version=1.20.1)
 - [Better Bushy Leaves](https://modrinth.com/resourcepack/better-busy-leaves)
 - [Better Flame Particles](https://modrinth.com/resourcepack/better-flame-particles)
 - [Capitalized Font](https://modrinth.com/resourcepack/capitalized-font)
