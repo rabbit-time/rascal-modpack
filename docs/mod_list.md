@@ -143,7 +143,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [Time and Wind](https://modrinth.com/mod/time-wind)
 - [Trinkets](https://modrinth.com/mod/trinkets)
-- [Vanilla Refresh](https://modrinth.com/datapack/vanilla-refresh)
 - [Zoomify](https://modrinth.com/mod/zoomify)
 
 ## Performance & Optimization
