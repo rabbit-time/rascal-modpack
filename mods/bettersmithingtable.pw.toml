@@ -1,13 +1,13 @@
 name = "Better Smithing Table"
-filename = "better_smithing_ui-fabric-1.20+2.0.0.jar"
+filename = "better_smithing_table-2.1.0+1.20-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vt8TI045/versions/125nfbQs/better_smithing_ui-fabric-1.20%2B2.0.0.jar"
-hash-format = "sha1"
-hash = "d5f8e6ace4ac8d3d50b6c401d0ff7755a0cfe680"
+url = "https://cdn.modrinth.com/data/Vt8TI045/versions/zvdRZ7m7/better_smithing_table-2.1.0%2B1.20-fabric.jar"
+hash-format = "sha512"
+hash = "9817a6fdc8487db58c95934c7bc71b37219b197132fe3eb4c94c6e8aff0004bd9d8133e29d0ebef9f1086aea7274aea5e29a5590434722dccfba0bae6b0433fb"
 
 [update]
 [update.modrinth]
 mod-id = "Vt8TI045"
-version = "125nfbQs"
+version = "zvdRZ7m7"

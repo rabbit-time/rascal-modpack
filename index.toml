@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "41dba078cbc529a9a9e2593cd88edada6d0af676f932ca01a642424ac516584b"
+hash = "3c672a56ec20095c87caaf8183cbf4b039be19c4ad8368dc20f6da43a6f9f5cc"
 
 [[files]]
 file = "config/EmiLootConfig_v1.json"
@@ -1054,7 +1054,7 @@ hash = "b26267df5d40051b044998abde020d7fcdb1c3ee3ad1c6ce6f8d7c05fc83b715"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "89c5cc16522edbc203d3d85f2e766b6c7991148c1f5a1740ed3530014fcb3628"
+hash = "c1e356c39dca0549fd7a88da7f183b7f65cb63dcdd48d120b8dd5b75dbad6999"
 metafile = true
 
 [[files]]
@@ -1104,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4c6bd9db593961209b5b8836f4bb05ff86791fd981fce381569220a23ef5c5aa"
+hash = "a10f7f1072508bbe2d8d9cd9ce980cabc46805568ae9f055a5f47622aead26a7"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "6d16aca0b0eddec35681dc3a5c67168d342029a1c5f94d0c642b00baa9e77b76"
+hash = "046c35c8e19b2b04937a98a15e4c1aa95fee3aba8c2008fdd641ead74b85e0b7"
 metafile = true
 
 [[files]]
@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettersmithingtable.pw.toml"
-hash = "6e7fd452400172d657d9472767eb879201920b4bfd66a3430358d62b51271270"
+hash = "440dee091612e31c9e56d75558505c001b138cddc3e153f821873c6bdb762036"
 metafile = true
 
 [[files]]
@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
-hash = "9e3edbc66f06eac2f4486b52223cd19ad80a4c967162615959ddd183064d0f12"
+hash = "5d9ebe88bd5f88c680d773a765f7d4e63f3b5a1fce2e23c4d04fc52d19cccc04"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7a53d620daca2a01628ea584be083bddd8c429aa6938f907b0faf6ec8dd0d3de"
+hash = "f1d9c0910c3172c83058cc6d9af49e9b8dd9a6e410b0113e41077a373a0646a0"
 metafile = true
 
 [[files]]
@@ -1354,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "779fa504c1fced78924326adbc6af46eb3c5ef4aa103e5599d3bfb17b014a5ad"
+hash = "bbbff4271055747bdc517ce34322b5fdf730f9421192615a789b3b3bdb2a1026"
 metafile = true
 
 [[files]]
@@ -1374,7 +1374,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -1404,17 +1404,17 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "791ac009a9a44b6d19c232b0c563bf08439b8ead9ba39ee65eda2e4e5127f78e"
+hash = "bc7e199dc865b98387fb460ab134ec17778bdef7977e2f9e5975dbe5326c8b9b"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "956ce6abf28a447b1ab99aae9c7490151e8ea9d792528314735753b2789b46ce"
+hash = "26eb9a0d230cfebd3e32df2db21326d45ecca1348fb3d731657f3e55a9dde467"
 metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "1eca834248d3420fd44ffb6cc17194c94c974e331e324f579ed5ae9a649a2526"
+hash = "79d8c527a416d0dfe54695701e13456580981084195ef4888bb1b61dcfa12e32"
 metafile = true
 
 [[files]]
@@ -1464,7 +1464,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-armors.pw.toml"
-hash = "be1fe23bdb3e26b4d0ee5c6116c2311bfc4af91acfb62f8feb7717b030a113af"
+hash = "aafc36d4ffdbeb024d0cf535d0ebccc10313530e1e8b096fd65132397df1f9e9"
 metafile = true
 
 [[files]]
@@ -1579,7 +1579,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "936f8e3b23ec686afb7bf7f379984662f44099bc54f11767445ef2bd3e70fde7"
+hash = "25eaf217efd36d674b35fe2577c41736bcceb2961224ce9dd3e67be0bd483d1d"
 metafile = true
 
 [[files]]
@@ -1589,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "424d13befefe6441568e208be8a9482bdacc30c759731df8cbbd3f6b45922cc7"
+hash = "8f4bdcf3f56dd99067356fff5d5b2b288e6c0f132447777f3fe89abced76a70e"
 metafile = true
 
 [[files]]
@@ -1659,7 +1659,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "365f9fc8f0088acdf6887b7f41b1d5fa4b5533317503f6ad49fdfe3fdc4fe5aa"
+hash = "2b24c4202cb5c7ec741b3015d131a60f67f55117c0d525f2d31adaf8e2f6bd26"
 metafile = true
 
 [[files]]
@@ -1704,7 +1704,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
+hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
 
 [[files]]
@@ -1883,12 +1883,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "9804caa5aa2925055ee58ee9444ff20559098dc78973e2781398daa4a1e4b2ae"
+hash = "8161f46a611ad728c6a5e413e549845de39988022d5d412478805741a6c96aea"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "6910db817b51211faf603d5dc922721fa8d23bf6b373673f3113b4df45806a93"
+hash = "982ddeeb761a8e001ed2b0487b916bb08d012666d369c7e6aeb0e5d950b6e99f"
 metafile = true
 
 [[files]]
@@ -1958,12 +1958,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "f8a4208d9cb40af6ad94428f2bc83a6f0b5713e8344d04898e834faa510ff2da"
+hash = "79a6d1e1f7f067c36cbb2e16465eeeda65874fc6e8606efeff6eedba9f485fcc"
 metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1eee7c0e5b1e3f1931d95de761256e5e72e6c8aef4e310cd5e07ddd88680d09b"
+hash = "0d89c07d39ce975914e3fe9e79270830b435b1aa405bfe9b1ca0e88116a3e483"
 
 [[files]]
 file = "resourcepacks/Artisan's Armory.zip"
@@ -1972,6 +1972,10 @@ hash = "5cdacff8f524d382a8a87147ce5e7729784f47fb896da5e7f02bb4a0fe9c4143"
 [[files]]
 file = "resourcepacks/Banner Pattern Clarity v1.5 pf8-34.zip"
 hash = "3afb4dec5716a4292cb6de5118643e9333d701b905237df4bcad12942507f0d1"
+
+[[files]]
+file = "resourcepacks/Better Boats.zip"
+hash = "b25c8b0c4f48c24cb680ef3298fb7f6d6021e3f8fe86a1309b3e7e3f681d07fb"
 
 [[files]]
 file = "resourcepacks/Capitalized Font - 1.21 - 0.1.zip"
