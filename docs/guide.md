@@ -12,9 +12,6 @@ As a whole, the ore tier system has been rebalanced and iron and diamond tools a
 ### Backpacks
 There are now backpacks which can be crafted and upgraded! You can equip one in the backpack slot and use `B` to open it.
 
-### Bleeding
-There is a bleeding effect in the game! There is a chance for mobs to inflict bleeding onto you, which can be stopped by using bandages.
-
 ### Decoration
 Plenty of new blocks and furniture to explore. Take a look at the recipe book and find yourself something nice!
 
@@ -22,7 +19,6 @@ Plenty of new blocks and furniture to explore. Take a look at the recipe book an
 Farming has been overhauled and there is a cooking system!
 
 ### Inventory features
-- You can now move with your inventory open
 - Use the scroll wheel to move items
 - Click the scroll wheel to sort
 - Hold `shift+LMB` to move multiple items
@@ -49,16 +45,14 @@ Villagers will now follow you with `CTRL+RMB` while holding an emerald. They'll 
 ## Some cute additions
 Minor features that are good to know!
 
-- Wooden armor can be crafted to repel arrows!
-- Chalk can be used to mark arrows onto blocks; no more getting lost in caves!
 - Items dropped on death won't despawn anymore!
+- Creeper holes will heal themselves over time!
 - Shield delay is a thing of the past and shield sounds are now correct!
 - All the mobs which lost the mob vote have been added!
 - Carts can be crafted to haul mobs or items. Press `R` to pull them!
 - Pets will always follow you and will not get stuck in unloaded chunks. They'll also follow you through portals, won't attack enemies on low health, and pet friendly fire is disabled!
 - Ladders can be placed without a block behind it!
 - Allays can be contained inside of a bottle!
-- A pair of Heartstones can be crafted in order to find your friend. It works when both players have it in their inventory!
 - Your hunger bar now shows exhaustion and saturation!
 - After a few minutes, explosion craters from creepers, ghasts, and withers will automatically heal!
 - Use the `/slime` command to check for a slime chunk, or use the `F3` menu!
@@ -72,7 +66,6 @@ Minor features that are good to know!
 - Elytras can be equipped while wearing armor!
 - Elytras can now be trimmed! Craft with a glow ink sac to make it emissive!
 - Stonecutters now support woodcutting, recycling, and uncrafting!
-- Vertical slabs are in the game!
 - Craft a Nature's Compass to locate nearby biomes!
 - Press `Z` to use a spyglass when it's in your inventory!
 - Those pesky endermen will no longer pick up or place blocks!
