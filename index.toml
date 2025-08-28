@@ -1443,11 +1443,6 @@ hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
-file = "mods/heartstone.pw.toml"
-hash = "fed093e5974718f7e5086aef73ec6c7c0b51b8a40772c969abe1ab8e92f57bfe"
-metafile = true
-
-[[files]]
 file = "mods/herdspanic.pw.toml"
 hash = "46b44b530e3a305d207833ae7ba36808f09d77ffef22835076a69ed112e5784f"
 metafile = true

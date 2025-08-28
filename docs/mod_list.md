@@ -24,7 +24,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Geophilic](https://modrinth.com/mod/geophilic)
 - [Grass Overhaul](https://modrinth.com/mod/grass-overhaul)
 - [Handcrafted](https://modrinth.com/mod/handcrafted)
-- [Heartstone](https://modrinth.com/mod/heartstone)
 - [HerdsPanic](https://modrinth.com/mod/herdspanic)
 - [Immersive Armors](https://modrinth.com/mod/immersive-armors)
 - [Inmis](https://modrinth.com/mod/inmis)
