@@ -39,7 +39,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Night Lights](https://modrinth.com/mod/nightlights)
 - [No Shield Delay](https://modrinth.com/mod/no-shield-delay)
 - [Nullscape](https://modrinth.com/mod/nullscape)
-- [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
 - [Scaffolding Drops Nearby](https://modrinth.com/mod/scaffolding-drops-nearby)
 - [Shearable Vines](https://modrinth.com/mod/shearable-vines)
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)

@@ -202,7 +202,7 @@ hash = "5ecdb13465f88d18ab11d46f1f94dfea11c6418755fb9ca6dd63ab6676e083dd"
 
 [[files]]
 file = "config/firstperson.json"
-hash = "8ab8ebca63b763807d91370a44609ba623e96a15d103f5489b3ff22f44c6543f"
+hash = "d16cc2cbd82c4bbf1a33295860687e4da3e581c6cefe871c86d520f629d0f239"
 
 [[files]]
 file = "config/fml.toml"
@@ -247,10 +247,6 @@ hash = "0936cf33e4aefa61f1d1ba8cfeeb8f972a71ae1f319adfd4d14c73a56e00cdab"
 [[files]]
 file = "config/guicompass.json5"
 hash = "cf2ef48d2e444c1686a980b7e195e7e9c1b073a727811e550c3b800251982288"
-
-[[files]]
-file = "config/heartstone-client.json"
-hash = "d34a7151234fcf1427a04a246c406cbe868623ea0dae107afbbb740b0627504a"
 
 [[files]]
 file = "config/herdspanic.json"
@@ -323,10 +319,6 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 [[files]]
 file = "config/make_bubbles_pop.json"
 hash = "2266b2e507e4dcea55fb1a53be33690efc8c1fe4ce7a559a98a29fecac2069c4"
-
-[[files]]
-file = "config/manhunt.json"
-hash = "1bf536d27bcb104dd2da8c749ef60f39a753ad5844c457ea369d4b59a4474f73"
 
 [[files]]
 file = "config/map_atlases.json5"
@@ -411,10 +403,6 @@ hash = "4dd5b9aba18a07bfa43c410e96c381406007009e50897fbcf8d5b306d377a018"
 [[files]]
 file = "config/puzzlesapi-slotcycling-client.toml"
 hash = "a7ca188ef644089b3b52ac767895e3230c2b904f9243b562914ae5ae55090097"
-
-[[files]]
-file = "config/shieldfixes.toml"
-hash = "288945ef5260c535b7a726cbf9af2ef30e386d2178442bb7abbf6b3b9a4019f6"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
@@ -1023,10 +1011,6 @@ hash = "af85f2909fde8c0dbea201fb6fb4afc5070be875c24266b47887f33f03c19321"
 [[files]]
 file = "config/vanityslots.json"
 hash = "44df96512867f42bde6ddab349e8d406c161a2c5eb557565db648f68941598b9"
-
-[[files]]
-file = "config/visual_workbench.json"
-hash = "fda5ed7c50fc65cc2047bca6649a6ffd59ddd64fcec5d6156ac48096ef159451"
 
 [[files]]
 file = "config/visuality.json"
@@ -1668,11 +1652,6 @@ hash = "13a6776b6e17d32a8dcc74932ce4af8b13290b1c90fe4c91b41abbd2b2c0d569"
 metafile = true
 
 [[files]]
-file = "mods/nyfs-spiders.pw.toml"
-hash = "331450a351fe3099c8bb4522c63d5a2ab063aad3ec29328d9cb7ec40a0a74f44"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
@@ -1858,10 +1837,6 @@ hash = "dfad28947fdc326b7e1e63be5edede0bdbcb38452fa5d45054d876398f2adc0d"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-refresh-1.4.19a.jar"
-hash = "2ad90fff413411a09ccb9901e8beacd8f61ae26c01fa96ee2c29a3834da2483a"
-
-[[files]]
 file = "mods/vanity.pw.toml"
 hash = "721c43a84c2d1d89716d0ddf51366b4b79626f20f631d7948ab1a135d0645684"
 metafile = true
@@ -1953,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "79a6d1e1f7f067c36cbb2e16465eeeda65874fc6e8606efeff6eedba9f485fcc"
+hash = "738aac399530585aeb0807e7c4568d1deaac113de9666fef7cf5f69edac5e705"
 metafile = true
 
 [[files]]
