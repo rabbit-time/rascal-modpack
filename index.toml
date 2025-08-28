@@ -1213,6 +1213,11 @@ hash = "8a2f2bc8b8b2daeced8ea95a8752e5dc1cd781146b481da8ce107f1b9f9dbd37"
 metafile = true
 
 [[files]]
+file = "mods/complete-shield-fixes.pw.toml"
+hash = "43a0cd7043f8554ff88fb7af9e5b5d3d8d9c1296fb6315a2258ba73979065925"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "f0f18290ff48f9060307f5776f7b2307e8d2cb72aa14f3c799a63d7b1e3efe0a"
 metafile = true
@@ -1725,11 +1730,6 @@ metafile = true
 [[files]]
 file = "mods/shearable-vines.pw.toml"
 hash = "dfe0481455f971ed6e60aafba90efbcbee42cf7bd5774378ae196b7316f2f569"
-metafile = true
-
-[[files]]
-file = "mods/shield-fixes.pw.toml"
-hash = "65ff5dee05ad29ea76c066850f71ae46b98bd017ccd317705d18176b7ccda5c0"
 metafile = true
 
 [[files]]

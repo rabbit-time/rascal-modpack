@@ -153,7 +153,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Lithium](https://modrinth.com/mod/lithium)
 - [ModernFix](https://modrinth.com/mod/modernfix)
 - [Noisium](https://modrinth.com/mod/noisium)
-- [Shield Fixes](https://modrinth.com/mod/shield-fixes)
+- [Shield Fixes](https://modrinth.com/mod/complete-shield-fixes)
 - [Sodium](https://modrinth.com/mod/sodium)
 
 ## Dependencies
