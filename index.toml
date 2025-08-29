@@ -45,10 +45,6 @@ file = "config/beautify.json"
 hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
 
 [[files]]
-file = "config/betterclouds-v1.json"
-hash = "4d4327a7cff9c0b7634257745f1cb65a88651892bca619ab924911ef28c6cadf"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "fdf34252b299b734bbb8d0c93098d6d366f591fa95b625f81d458bbafb70c83d"
 
@@ -202,7 +198,7 @@ hash = "5ecdb13465f88d18ab11d46f1f94dfea11c6418755fb9ca6dd63ab6676e083dd"
 
 [[files]]
 file = "config/firstperson.json"
-hash = "20af37e2ea6091a829185f0f1c9fef32a075f05696e807d194fcf508513fe7f4"
+hash = "9a4773502f8160475f31495b46302230933cb68de83a8b7b8758796d29e925fa"
 
 [[files]]
 file = "config/fml.toml"
@@ -414,7 +410,7 @@ hash = "5c2d79965226dc1be7ab39c113b5db5aff3ffd60d8990456286bb0c37441b869"
 
 [[files]]
 file = "config/skinlayers.json"
-hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
+hash = "538403504e7716ce9bef9adeccf728ea1449a04ce844760d5d077ec67a4838d2"
 
 [[files]]
 file = "config/smarterfarmers-common.json"
@@ -1928,51 +1924,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0d89c07d39ce975914e3fe9e79270830b435b1aa405bfe9b1ca0e88116a3e483"
-
-[[files]]
-file = "resourcepacks/Artisan's Armory.zip"
-hash = "5cdacff8f524d382a8a87147ce5e7729784f47fb896da5e7f02bb4a0fe9c4143"
-
-[[files]]
-file = "resourcepacks/Banner Pattern Clarity v1.5 pf8-34.zip"
-hash = "3afb4dec5716a4292cb6de5118643e9333d701b905237df4bcad12942507f0d1"
-
-[[files]]
-file = "resourcepacks/Better Boats.zip"
-hash = "b25c8b0c4f48c24cb680ef3298fb7f6d6021e3f8fe86a1309b3e7e3f681d07fb"
-
-[[files]]
-file = "resourcepacks/Capitalized Font - 1.21 - 0.1.zip"
-hash = "cab4b967f9d1816aa15652973a6e37ba23387d07f1cc114065485cf6f0d39a69"
-
-[[files]]
-file = "resourcepacks/EclecticTrove-noconfig-1.20.1-1.3.0.zip"
-hash = "7857145523527fe5a3aa402d2c3a8a60aa9e79e8d157d0430c3a885b7192b2ff"
-
-[[files]]
-file = "resourcepacks/FreshAnimations_v1.9.2.zip"
-hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
-
-[[files]]
-file = "resourcepacks/Pixelated_v1.3.4_EnhancedVisuals(nox_cgt).zip"
-hash = "1518315dba119be8e2849f39e2e69cec9ca6347acbdf4716752072d9e59f1e95"
-
-[[files]]
-file = "resourcepacks/SPBR-GlowingOre.zip"
-hash = "cb818c1c07c79eafbe116ac9a12c7af83cf6726e6cfb1982ea027b16fc01713b"
-
-[[files]]
-file = "resourcepacks/Simple Grass Flowers v1.9.4.zip"
-hash = "0802943d06fc38827a9feeb09f7b84e5fbd28608dd1096d259860fe0e3275641"
-
-[[files]]
-file = "resourcepacks/Stefan'sEnchantedBooks 1.20.2.zip"
-hash = "e10900cc9c9d45212e4d9365ebba1d4784561fa61beb87b85a3c23a1b9b7a17c"
-
-[[files]]
-file = "resourcepacks/Vanilla Mashup.zip"
-hash = "7b8b443fb95622ea7b652d2b0c6a49d0d5ad764f2780e1c44eff633cc6d7db01"
+hash = "289c6a8e1fa57d89f57e89960df633543b67701de659c2073af80f773635c42d"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r304641.zip"
@@ -1989,10 +1941,6 @@ hash = "5173bb3bc6ccd6d6c4e540442dfad751bd500edce45021d1d913ed0197d75a9e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better bushy leaves 4.0.zip"
-hash = "5a66283f52ad37a9fee7a70defea15a8a07e2195ccdc271443ae788f972fee4e"
-
-[[files]]
 file = "resourcepacks/better-busy-leaves.pw.toml"
 hash = "d30d99faf750283813d7fb814b5378c2beaf503ea9931193400f23dbb81c28a6"
 metafile = true
@@ -2001,10 +1949,6 @@ metafile = true
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
 metafile = true
-
-[[files]]
-file = "resourcepacks/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip"
-hash = "99b77fa139231fcf5980fcaa0ad5b5eabf832d276d15a5bb0138c2e5d9bf4ba8"
 
 [[files]]
 file = "resourcepacks/capitalized-font.pw.toml"
@@ -2071,21 +2015,9 @@ hash = "5a909f89f75fe3916a7446d56babe2407722987e0ef53581004d90798b50f572"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali's Enchanted Books v1.0.0-beta.2.zip"
-hash = "e91bbbcf1fb77232a4e1d0a2c62b7cd2c3d9e6cb37c0f5a303b95f5892f18ec5"
-
-[[files]]
 file = "resourcepacks/xalis-potions.pw.toml"
 hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
 metafile = true
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4.zip"
-hash = "13af6c439ef8651916b18d2d658f134b07ce3c2e835d23d37d5d24c5d43284de"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.4.zip.txt"
-hash = "47ee1bf182c92f9a5aadf9ff3817df685ca9f75256a40199d60251d96d76f88d"
 
 [[files]]
 file = "shaderpacks/photon_v1.1.zip"
@@ -2093,4 +2025,4 @@ hash = "e07a3428f11d543ea9b255fc9ab96f9af26435cba8986fd774fbfcee872e68a8"
 
 [[files]]
 file = "shaderpacks/photon_v1.1.zip.txt"
-hash = "6b5c3c5f25053aa2bc5e6e19a29df8a4022feb64416c2d325ee741f4d44e53c1"
+hash = "dcc60b6287488eb690ae5918c5997fcab75d90a83600c602fcaf366fc5180b0f"
