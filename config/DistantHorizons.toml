@@ -718,7 +718,7 @@ _version = 3
 			#
 			# If enabled, a chat message will be displayed if vanilla MC's 
 			# render distance is higher than the recommended amount.
-			showHighVanillaRenderDistanceWarning = true
+			showHighVanillaRenderDistanceWarning = false
 			#
 			# If enabled, a chat message will be displayed when a replay is started 
 			# giving some basic information about how DH will function.

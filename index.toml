@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "3c672a56ec20095c87caaf8183cbf4b039be19c4ad8368dc20f6da43a6f9f5cc"
+hash = "83824ace6a9ea3c6f7028796b57e1134aef3fb70e6ba32c1479ca8c90ece66ac"
 
 [[files]]
 file = "config/EmiLootConfig_v1.json"
@@ -202,7 +202,7 @@ hash = "5ecdb13465f88d18ab11d46f1f94dfea11c6418755fb9ca6dd63ab6676e083dd"
 
 [[files]]
 file = "config/firstperson.json"
-hash = "d16cc2cbd82c4bbf1a33295860687e4da3e581c6cefe871c86d520f629d0f239"
+hash = "20af37e2ea6091a829185f0f1c9fef32a075f05696e807d194fcf508513fe7f4"
 
 [[files]]
 file = "config/fml.toml"
