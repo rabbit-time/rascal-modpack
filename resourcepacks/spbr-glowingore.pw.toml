@@ -1,0 +1,13 @@
+name = "SPBR-GlowingOre"
+filename = "SPBR-GlowingOre.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7rohkYfM/versions/xDXvA1Hv/SPBR-GlowingOre.zip"
+hash-format = "sha512"
+hash = "a5d1814f5061ac9c6546503eff332c11c569c560271de98c48ddaf8141403cf0a77ace60d4d0ff9842c739d8846ed32717b367707e44499ca18bd76e5138ec62"
+
+[update]
+[update.modrinth]
+mod-id = "7rohkYfM"
+version = "xDXvA1Hv"

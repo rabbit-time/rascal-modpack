@@ -1,0 +1,14 @@
+name = "Artisan's Armory | Equipment Overhaul"
+filename = "§6Artisan's §fArmory.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/HAeb3B1W/versions/NZ5VLcH4/%C2%A76Artisan%27s%20%C2%A7fArmory.zip"
+hash-format = "sha512"
+hash = "f120a92ea6813d5d725c78903820210edaf55c737263ad1a1ce066b86a64613c5ef512ec5175b05ace67a8d250ffa717434b238738692181b514868a3ac0aff5"
+
+[update]
+[update.modrinth]
+mod-id = "HAeb3B1W"
+version = "NZ5VLcH4"

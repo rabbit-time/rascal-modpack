@@ -1,0 +1,13 @@
+name = "Fancy Glint"
+filename = "Fancy Glint for 1.19.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LJikSCNQ/versions/PTae5UC0/Fancy%20Glint%20for%201.19.zip"
+hash-format = "sha512"
+hash = "22fbab8d62d845e2b270bbbc315624d900ae203a309ab484e1d18eaab618d3c9881c82ae5f979025b72cc176f5f4f979b9592ba015389c67b2d1414c2540381a"
+
+[update]
+[update.modrinth]
+mod-id = "LJikSCNQ"
+version = "PTae5UC0"

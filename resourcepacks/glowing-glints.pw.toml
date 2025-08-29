@@ -1,0 +1,13 @@
+name = "Enchantment Outlines"
+filename = "Enchantment Outlines 1.19-1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A32gwfe8/versions/xJMCwaMw/Enchantment%20Outlines%201.19-1.20.zip"
+hash-format = "sha512"
+hash = "f3a0c2c1d18835752a5d61399e9b6e98b271eb92d6d4e27f3da9f2e395d30217240ace026f16ada7e208d25e4b7c3125cf9c20b09e4772cf5978233dffb5563a"
+
+[update]
+[update.modrinth]
+mod-id = "A32gwfe8"
+version = "xJMCwaMw"

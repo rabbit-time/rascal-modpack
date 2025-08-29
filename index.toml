@@ -1984,20 +1984,105 @@ file = "resourcepacks/VanillaTweaks_r304641.zip"
 hash = "f25d077d3cf3d63167cdcb456d86b4adecf36a36545177e33ab8e39899d6ed0c"
 
 [[files]]
+file = "resourcepacks/artisans-armory.pw.toml"
+hash = "7bc3fc7e64333c139f67bee048eeac7a3629b340774bb9d9115a4545215e7677"
+metafile = true
+
+[[files]]
+file = "resourcepacks/banner-pattern-clarity.pw.toml"
+hash = "5173bb3bc6ccd6d6c4e540442dfad751bd500edce45021d1d913ed0197d75a9e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better bushy leaves 4.0.zip"
 hash = "5a66283f52ad37a9fee7a70defea15a8a07e2195ccdc271443ae788f972fee4e"
+
+[[files]]
+file = "resourcepacks/better-busy-leaves.pw.toml"
+hash = "d30d99faf750283813d7fb814b5378c2beaf503ea9931193400f23dbb81c28a6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-flame-particles.pw.toml"
+hash = "ff85d06569c47f70c8fdd3ca44d80b3e19dff6e12e854a4bc8fd4ee09ec82940"
+metafile = true
 
 [[files]]
 file = "resourcepacks/better_flame_particles-v2.2-mc1.14x-1.21x-resourcepack.zip"
 hash = "99b77fa139231fcf5980fcaa0ad5b5eabf832d276d15a5bb0138c2e5d9bf4ba8"
 
 [[files]]
+file = "resourcepacks/capitalized-font.pw.toml"
+hash = "3dc7778c489953413142327f36d5395b3df0c0b810f0b06879ea257e068f3c33"
+metafile = true
+
+[[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhancedvisual-pixelated.pw.toml"
+hash = "2206930e93036fb6ab4d3fd120ce9866c809e08b8a9d81d1f7f5a9344a4b8546"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fancy-glint.pw.toml"
+hash = "85ec33c5891e2fd8c46fb4b0f04643ecf0553adc9afa546a8d489c550419673c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "e8280a2e17df9a1112e9ff4e82f1ca57946dfaa5ea72423a9f36921871f7aad6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/metals-ultra.pw.toml"
+hash = "a0647f10ef74439899732c372a2673816ade2f2d7e5d0014022972173bda6e4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pnapbr.pw.toml"
+hash = "dc4d8a24aabca77d4a1beeeeceb4a95ea04d9327f2f9d83fb47c7f4a417ad64f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/rascal_modpack_assets.zip"
 hash = "3fe9ac068bca48d918719d5252a9f0b6e9db83062d52d4a20f796c54d974fb06"
 
 [[files]]
+file = "resourcepacks/simple-grass-flowers.pw.toml"
+hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr-farmersdelight.pw.toml"
+hash = "154ed0935263a3d6afa0e3b8f091068fa85a749d73e5475ed351f80c4fb983e7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr-glowingore.pw.toml"
+hash = "ed55a0e6df3640fc4ab87d112eb8cdd87d9afe01d0991c2a8c78d88f5e954bc2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stefansenchantedbooks.pw.toml"
+hash = "5a909f89f75fe3916a7446d56babe2407722987e0ef53581004d90798b50f572"
+metafile = true
+
+[[files]]
 file = "resourcepacks/xali's Enchanted Books v1.0.0-beta.2.zip"
 hash = "e91bbbcf1fb77232a4e1d0a2c62b7cd2c3d9e6cb37c0f5a303b95f5892f18ec5"
+
+[[files]]
+file = "resourcepacks/xalis-potions.pw.toml"
+hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.4.zip"

@@ -1,0 +1,13 @@
+name = "(Bushy Leaves) dronko's alternative Bushy Leaves"
+filename = "better bushy leaves 4.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRGNnVDf/versions/f86NZCUA/better%20bushy%20leaves%204.1.zip"
+hash-format = "sha512"
+hash = "8677d4771f793e2e5e9e95379c127ba9dac1a01972f0e6f6d7d0ada76b7e4d26b6907236d19ec8935c7e47b2773824ff94e8c830f7f64727311a4d627d65fc01"
+
+[update]
+[update.modrinth]
+mod-id = "MRGNnVDf"
+version = "f86NZCUA"

@@ -1,0 +1,13 @@
+name = "EnhancedVisual Pixelated"
+filename = "Pixelated_v1.3.4_EnhancedVisuals(nox_cgt).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AdXxxPfs/versions/ygcCPdIc/Pixelated_v1.3.4_EnhancedVisuals%28nox_cgt%29.zip"
+hash-format = "sha512"
+hash = "094864a9a59cfbb2b13cd62b818f2a6f4e01c02562f5acbd9f285915bbcaeb19a5075c988def7cb5322751e9fde6aa08da968fdcae9fb45df9bb9aca1983fc08"
+
+[update]
+[update.modrinth]
+mod-id = "AdXxxPfs"
+version = "ygcCPdIc"

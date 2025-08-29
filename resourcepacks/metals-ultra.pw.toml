@@ -1,0 +1,13 @@
+name = "Metals Ultra"
+filename = "MetalsUltra_V1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ereJ9CnJ/versions/4LHdd3F0/MetalsUltra_V1.3.zip"
+hash-format = "sha512"
+hash = "a7b1cbdac70c76ee2954b9b3fb3a1c3cc6c1309dfe8c44e9422f79d04ebd8073966c2ebb68411ff493e81ca895b64631d44d1738287eb2d2cccdfb4cbac8bf5c"
+
+[update]
+[update.modrinth]
+mod-id = "ereJ9CnJ"
+version = "4LHdd3F0"
