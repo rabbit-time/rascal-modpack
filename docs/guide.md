@@ -34,7 +34,7 @@ An Atlas can be crafted and equipped to serve as a minimap. Use `M` to open it!
 Craft a sleeping bag to sleep through the night without setting your spawn point. You can also craft a hammock to sleep through the day time until it is night!
 
 ### Tree chopping
-Trees will now be harvested when cut. All the logs will count towards your axe's durability and leaves will decay fast. Sneak while cutting the logs to skip the harvest.
+Trees will now be harvested when chopped while sneaking. All the logs will count towards your axe's durability and leaves will decay fast.
 
 ### Vanity armor
 There are now vanity armor slots, just like in Terraria! The "familiar" armor set can also be crafted to simply show just your skin.
@@ -42,7 +42,7 @@ There are now vanity armor slots, just like in Terraria! The "familiar" armor se
 ### Villager transport
 Villagers will now follow you with `CTRL+RMB` while holding an emerald. They'll stop following you after a while, or you can end it early with `CTRL+RMB`, but without holding the emerald!
 
-## Some cute additions
+## Some nice additions
 Minor features that are good to know!
 
 - Items dropped on death won't despawn anymore!
