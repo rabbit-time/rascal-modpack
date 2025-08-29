@@ -1097,11 +1097,6 @@ hash = "b64a86a3fa5dd467d1c83f7c094313ad8e6a335a9c73a2c9521c03b5a93d7673"
 metafile = true
 
 [[files]]
-file = "mods/better-clouds.pw.toml"
-hash = "046c35c8e19b2b04937a98a15e4c1aa95fee3aba8c2008fdd641ead74b85e0b7"
-metafile = true
-
-[[files]]
 file = "mods/better-ladders.pw.toml"
 hash = "9390ff0232cbfaa938462f72ecc457718ef8bb6faec90dcce6405fa98ad46f87"
 metafile = true
