@@ -1063,6 +1063,11 @@ hash = "e63323ef22e8672030d1b6c4d10572b36c9684e76093d953f1ca4fa51d30c700"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "6486abd02846d51e2da7c93ddc1bb66ea57d5917bd20e9df33d6063ab74097aa"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0d72044f88935675985397478ca839878bfbf03feab46e9667e81d4c955ae68d"
 metafile = true
@@ -1275,11 +1280,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
-metafile = true
-
-[[files]]
-file = "mods/edf-remastered.pw.toml"
-hash = "c6d6e0e569ee03b705fe01ee5fc98505362d3a90a1a2cd919c2eb26dfa3cf5bd"
 metafile = true
 
 [[files]]
@@ -1538,11 +1538,6 @@ hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "54bcc4e45bd8e0be3c05a2001f35e1df73dbf918bb15b6a9fb5c3e605afb53c6"
-metafile = true
-
-[[files]]
 file = "mods/mastercutter.pw.toml"
 hash = "51906a6daced511c4a3ae936f79c238f2be03e754a5a289aa265e763269e6130"
 metafile = true
@@ -1768,6 +1763,11 @@ hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+metafile = true
+
+[[files]]
 file = "mods/sushi-bar.pw.toml"
 hash = "65fc240fd0e26598a98bfd7decc7e99dac36dec19c74d8aa6b3ab86bf1a76700"
 metafile = true
@@ -1956,6 +1956,11 @@ hash = "3dc7778c489953413142327f36d5395b3df0c0b810f0b06879ea257e068f3c33"
 metafile = true
 
 [[files]]
+file = "resourcepacks/comforts-modernized.pw.toml"
+hash = "385d74d9bbe10278d86d09f4cc4bfe206da1d91bf53744260bba37d8cd8a20c8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
 hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
 metafile = true
@@ -1967,27 +1972,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fancy-glint.pw.toml"
-hash = "85ec33c5891e2fd8c46fb4b0f04643ecf0553adc9afa546a8d489c550419673c"
+hash = "59f2857d1fb47f8586b66f31180bb80e7a9426ce11cbf2a0b88c63958b500fd3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "b96abadb2cdb56d53145609e6a8ee9fd70171878bb5414412dddee1fca902a7b"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/glowing-glints.pw.toml"
-hash = "e8280a2e17df9a1112e9ff4e82f1ca57946dfaa5ea72423a9f36921871f7aad6"
+file = "resourcepacks/fresh-waystones-texture.pw.toml"
+hash = "30eb25d58845dd773eab2f7c275ad3b06b17b369f87ed89b64985bcd73fca16c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/metals-ultra.pw.toml"
-hash = "a0647f10ef74439899732c372a2673816ade2f2d7e5d0014022972173bda6e4b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pnapbr.pw.toml"
-hash = "dc4d8a24aabca77d4a1beeeeceb4a95ea04d9327f2f9d83fb47c7f4a417ad64f"
+file = "resourcepacks/lanostryfoxes.pw.toml"
+hash = "a656a75f98b5a0c667edfd04f54db5ac777af8f13302936bf25aeb395130d16d"
 metafile = true
 
 [[files]]
@@ -1997,6 +1997,11 @@ hash = "3fe9ac068bca48d918719d5252a9f0b6e9db83062d52d4a20f796c54d974fb06"
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "96d580c29f3c69c313e54a5e4219a08ee3ebd69f4ab73febf591681de5376464"
+metafile = true
+
+[[files]]
+file = "resourcepacks/spbr-blockemission.pw.toml"
+hash = "f856d2c195b090e26d0d47b88e821312c2e3acc208a2ae5298e11efb756bfdd6"
 metafile = true
 
 [[files]]
@@ -2015,8 +2020,18 @@ hash = "5a909f89f75fe3916a7446d56babe2407722987e0ef53581004d90798b50f572"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vanilla-mashup-pbr.pw.toml"
+hash = "c2acbd7bf2fb68de4217c78589a4300c400d4b63310069a75954d48defca5799"
+metafile = true
+
+[[files]]
 file = "resourcepacks/xalis-potions.pw.toml"
 hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
 
 [[files]]
