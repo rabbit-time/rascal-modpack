@@ -18,7 +18,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Dismount Entity](https://modrinth.com/mod/dismount-entity)
 - [Easy Anvils](https://modrinth.com/mod/easy-anvils)
 - [Elytra Trims](https://modrinth.com/mod/elytra-trims)
-- [Ender Dragon Fight Remastered](https://modrinth.com/datapack/edf-remastered)
 - [Farmer's Delight Refabricated](https://modrinth.com/mod/farmers-delight-refabricated)
 - [Friends&Foes](https://modrinth.com/mod/friends-and-foes)
 - [Geophilic](https://modrinth.com/mod/geophilic)
