@@ -71,6 +71,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [3D Skin Layers](https://modrinth.com/mod/3dskinlayers)
 - [Advancement Plaques](https://modrinth.com/mod/advancement-plaques)
 - [Blur](https://modrinth.com/mod/blur-fabric)
+- [Cape | Better Capes](https://modrinth.com/mod/better-capes-x)
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 - [Dyed](https://modrinth.com/mod/dyed)

@@ -1098,6 +1098,11 @@ hash = "b64a86a3fa5dd467d1c83f7c094313ad8e6a335a9c73a2c9521c03b5a93d7673"
 metafile = true
 
 [[files]]
+file = "mods/better-capes-x.pw.toml"
+hash = "9c3ff772149bd276fc168103aeefea81b1126dbf22e12c3565ebeedc93ed7680"
+metafile = true
+
+[[files]]
 file = "mods/better-ladders.pw.toml"
 hash = "9390ff0232cbfaa938462f72ecc457718ef8bb6faec90dcce6405fa98ad46f87"
 metafile = true
