@@ -1,0 +1,13 @@
+name = "Lanostry's foxes"
+filename = "lanostry_foxes.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ASGfyE78/versions/FBRMnCXM/lanostry_foxes.zip"
+hash-format = "sha512"
+hash = "0028beda4f110f15f1a29dbbbe370c57b8bdf73aea832d3d38d1020d12b75a1408ee67de798a7ebaaeba5ac98485d4b2f064e8a45aeb08d11b9b89cb7715d44d"
+
+[update]
+[update.modrinth]
+mod-id = "ASGfyE78"
+version = "FBRMnCXM"
