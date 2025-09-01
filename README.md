@@ -4,7 +4,7 @@
 ![issues](https://img.shields.io/github/issues-raw/rabbit-time/rascal-modpack?style=flat&label=issues&color=22272E&logo=github)
 ![license](https://img.shields.io/github/license/rabbit-time/rascal-modpack?style=flat)
 ![mods](https://img.shields.io/github/directory-file-count/rabbit-time/rascal-modpack/mods?type=file&style=flat&label=mods)
-![fabric-loader](https://img.shields.io/badge/fabric--loader-0.16.10-blue?style=flat)
+![fabric-loader](https://img.shields.io/badge/fabric--loader-0.17.2-blue?style=flat)
 
 Rascal modpack is a vanilla-plus pack aiming to enhance the Minecraft experience. It was designed with gameplay, balance, quality of life, and performance in mind. It was crafted with passion and I hope that you enjoy it.
 
