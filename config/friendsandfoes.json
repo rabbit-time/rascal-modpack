@@ -7,7 +7,7 @@
   "enableLightningRodOxidation": true,
   "enableCrab": true,
   "enableCrabSpawn": true,
-  "crabSpawnWeight": 14,
+  "crabSpawnWeight": 10,
   "crabSpawnMinGroupSize": 2,
   "crabSpawnMaxGroupSize": 4,
   "reachingStatusEffectModifier": 1,
