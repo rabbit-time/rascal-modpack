@@ -68,6 +68,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
 
 ## Multiplayer
+- [Bad Wither No Cookie - Reloaded](https://modrinth.com/mod/bad-wither-no-cookie)
 - [Better Ping Display](https://modrinth.com/mod/better-ping-display-fabric)
 - [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 - [Factions](https://modrinth.com/mod/factions)

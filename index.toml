@@ -45,10 +45,6 @@ file = "config/auditory.json"
 hash = "a928489de800a69e647c5903be813d38d3bb8ead3b1fd417ad74405071f08bd0"
 
 [[files]]
-file = "config/beautify.json"
-hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
-
-[[files]]
 file = "config/betterf3.json"
 hash = "fdf34252b299b734bbb8d0c93098d6d366f591fa95b625f81d458bbafb70c83d"
 
@@ -129,22 +125,6 @@ file = "config/durabilitytooltip-common.toml"
 hash = "33dce8db596480e5101c5238a89a62ad1cb5231e1afdf7ca206e79ea8ab9cd4a"
 
 [[files]]
-file = "config/easyanvils-client.toml"
-hash = "fff4210e9ad19b4bab956b748ffc7ed0a580aeb0b78dee2e8254e335f707c74d"
-
-[[files]]
-file = "config/easyanvils-server.toml"
-hash = "08b4895b7858fc2d30b6fc1d8bb0acd0f1fb1987cd570757524dc651007fe538"
-
-[[files]]
-file = "config/easymagic-client.toml"
-hash = "d4c4a2f004d4990058e1437eac0f9be2fa984d47619adf1c455461eb1e353966"
-
-[[files]]
-file = "config/easymagic-server.toml"
-hash = "b5b4774de9cdf5168b8219feab227b3de1c0816fef1832388cf5254fea9be789"
-
-[[files]]
 file = "config/elytra-trims.json"
 hash = "84a7506102a44c2c76aebd0a28c30ff280d18791b7eddca16c08c7a91a670c80"
 
@@ -185,16 +165,16 @@ file = "config/entityculling.json"
 hash = "da3ceeb2e4b7e7f2d26de8bd6276f673702174378a7729187ef4491a7bbd3aee"
 
 [[files]]
-file = "config/etf_warnings.json"
-hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
-
-[[files]]
 file = "config/explosiveenhancement.json"
 hash = "91299501c49e2b907439a77189e031842b24c313aca4ac3fc301c34b63e4ae33"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "621ee77a3b5d9a3f6de2a1982a2846b86f894bcabfce070a17823348a9872c3c"
+
+[[files]]
+file = "config/factions.json"
+hash = "80b157b616c62b6b971aa16a0f2b73386ff5b8bcd5e0edeea5916121db8db329"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -205,48 +185,12 @@ file = "config/firstperson.json"
 hash = "9a4773502f8160475f31495b46302230933cb68de83a8b7b8758796d29e925fa"
 
 [[files]]
-file = "config/fml.toml"
-hash = "eb5434c7520284945763f461841e91da86895a70324e13218a07824f81e5ec87"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "534d9fc367bb58ded17ad2820df913dee00eb6e64ef9270c3a8e491db585f548"
-
-[[files]]
-file = "config/forge-common.toml"
-hash = "a440d2a7ce939ef3c462475555a9a188263aebdbf13db600de3f01d9d312970c"
-
-[[files]]
-file = "config/forge-resource-caching.toml"
-hash = "acfdb749a28106463b96980100a7e542b0b2bc3f9c9464196e0765a4f1c39061"
-
-[[files]]
-file = "config/forge.cfg"
-hash = "541d41d5f39249b5e174d161c96f112db5922b63b5fc2060e047fb0b19ccd1f7"
-
-[[files]]
-file = "config/forgeChunkLoading.cfg"
-hash = "95b66df0da7df0be35ccbc51ad08962b7ddba14f593f0428096547d67fed2378"
-
-[[files]]
-file = "config/forgeconfigapiport.toml"
-hash = "300b866a6251887cbd30b18438e123b2fa524315edbf8e2996a01acb4ecac91e"
-
-[[files]]
 file = "config/friendsandfoes.json"
-hash = "df93dbd6994b265a3fdd13961dc58cb6c465d413b315e749520ecfcd590a5f45"
+hash = "09f58221ed7b28323b14a37dc14d2f418293b6ea3b61b1c769db21b64ca3ebbd"
 
 [[files]]
-file = "config/guiclock.json5"
-hash = "3bef8e69a917603081d182c174990fce58f19bad4b56024c9cac417f62e89d44"
-
-[[files]]
-file = "config/guicompass-fabric.json5"
-hash = "0936cf33e4aefa61f1d1ba8cfeeb8f972a71ae1f319adfd4d14c73a56e00cdab"
-
-[[files]]
-file = "config/guicompass.json5"
-hash = "cf2ef48d2e444c1686a980b7e195e7e9c1b073a727811e550c3b800251982288"
+file = "config/gravestones.json"
+hash = "7e358d5c4c9f7a35066d477003444a2c36f58249cf6fc8a6d2a8baaf05438b5f"
 
 [[files]]
 file = "config/herdspanic.json"
@@ -291,18 +235,6 @@ hash = "1488107dd37c8f05131e65c5ad9adda7b674b08a8c0d639752d53b7926db2282"
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "fca97c1f6b6b102a4ca2b4aac4e81efc4ae9d90fcfe59ff563deee687dbf0002"
-
-[[files]]
-file = "config/languagereload.json"
-hash = "095547be003a5c7e76237b22107975538282280963d82b649f3121105f5c2255"
-
-[[files]]
-file = "config/leahs-immersive-thunder.toml"
-hash = "a120d448e40dbd9f63f660539b0cefb7ab3519a49a89c88e6be615fdaa363d36"
-
-[[files]]
-file = "config/leavemybarsalone-client.toml"
-hash = "57cc2d141b044f7b19505c01d10630c172d42bfdc33bbbaa5d1a22fd70d85fc7"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -359,10 +291,6 @@ hash = "62eeae0ad9352e2b13f424a964a711a2d16c98faf5236c5952872744c399c1f8"
 [[files]]
 file = "config/niftycarts-common.toml"
 hash = "247c214392b9dee42c63b73817a1bce1e701177b1666f4cfe693c2626f8cf844"
-
-[[files]]
-file = "config/no-shield-delay.toml"
-hash = "99620bbd1c5d93235b5d85280478fe20ea49ddd540883effc87f2ffcd8f00da9"
 
 [[files]]
 file = "config/notenoughanimations.json"
@@ -1013,10 +941,6 @@ file = "config/visuality.json"
 hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 
 [[files]]
-file = "config/visualworkbench-client.toml"
-hash = "34b0bec9bd8c11543ef15e0f939422bd18a849956c2c3f9c9176dd01ca8ced10"
-
-[[files]]
 file = "config/waterdripsound.json"
 hash = "f6700714d2f9b86a93bb0f3bdd3243359e69e58f9a93a5f052578fffb6ae4d33"
 
@@ -1085,6 +1009,11 @@ metafile = true
 [[files]]
 file = "mods/auditory-continued.pw.toml"
 hash = "45de2a871d5d91e30424619586cd9c91ca02fe873b9c24572e1547056b4e3729"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "545fefbb036d68fb42cd96a077d42461abbf935cb71a096cee9454fba4030339"
 metafile = true
 
 [[files]]
@@ -1224,7 +1153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "4548d136288d54fe93c2b688e7d45b108e49767b864d6fca29fafc62bde09078"
+hash = "859266aaeb71bdbd8e5a0126338a6da6bc4550de0878282cebbc87c8ce839350"
 metafile = true
 
 [[files]]
@@ -1364,7 +1293,7 @@ metafile = true
 
 [[files]]
 file = "mods/factions.pw.toml"
-hash = "23dcd69acb2d716dc390d7c86e8d561faf02b8f4765809d7addd5985cfd1811a"
+hash = "3c77038ae90c5e61ee5113f9dea7d4bd15411010392c28ceb78015a97ac0db07"
 metafile = true
 
 [[files]]
@@ -1774,7 +1703,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+hash = "dc2df921bc6671e0b2c60d5af130f6c87677598b3174567c120b70b9d58a1e5f"
 metafile = true
 
 [[files]]
@@ -1834,7 +1763,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
+hash = "53dda3fda3086c6a827574cbaeb9cd32532222cfd114d1a1af46f13b8b8d0adb"
 metafile = true
 
 [[files]]
@@ -1949,7 +1878,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e3fcb2da320feddb973aacf543c54b274a5c3007bacc4577a295c56294471907"
+hash = "f7125135fc9dd1bafda236e71dcaa3eda0f3c7db823bf63345c6ca528b70facd"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r304641.zip"
@@ -2053,6 +1982,10 @@ metafile = true
 file = "resourcepacks/xalis-potions.pw.toml"
 hash = "9f9743c793b257f5dee93d4aa492811aff475f90e7005fb723053fd5daaf90c4"
 metafile = true
+
+[[files]]
+file = "scripts/pwfix.py"
+hash = "c40549f27282fcd1c6de8b15fd24dd400e83953bfaf057f61aa208c7fe6e3504"
 
 [[files]]
 file = "shaderpacks/photon-shader.pw.toml"
