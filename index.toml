@@ -33,6 +33,10 @@ file = "config/ambientsounds-client.json"
 hash = "aa85f036d36855e588f92aa786cfeca1118fcbc5376e4a9217c12a0b44b99fe2"
 
 [[files]]
+file = "config/antique-atlas.toml"
+hash = "c164fc7943484572da91219472f386074cf9690dea69d465054fba96f24e0a1e"
+
+[[files]]
 file = "config/attributefix.json"
 hash = "870eb1348520393079e13efb01196fcfd9711bdbb9ebe3255f107323dfc9b4cb"
 
@@ -315,10 +319,6 @@ hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 [[files]]
 file = "config/make_bubbles_pop.json"
 hash = "2266b2e507e4dcea55fb1a53be33690efc8c1fe4ce7a559a98a29fecac2069c4"
-
-[[files]]
-file = "config/map_atlases.json5"
-hash = "2445aab2d82914c63a9a630ef85f3726b3c1f90067422dc05b3824f7263e3eb6"
 
 [[files]]
 file = "config/midnightlib.json"
@@ -1363,6 +1363,11 @@ hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
+file = "mods/factions.pw.toml"
+hash = "23dcd69acb2d716dc390d7c86e8d561faf02b8f4765809d7addd5985cfd1811a"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
 metafile = true
@@ -1400,11 +1405,6 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "79d8c527a416d0dfe54695701e13456580981084195ef4888bb1b61dcfa12e32"
-metafile = true
-
-[[files]]
-file = "mods/grass-overhaul.pw.toml"
-hash = "5f5d9def1194b37e03abcdfc8a7b9a259a762590cbf64561e2ab7c4401401ed2"
 metafile = true
 
 [[files]]
@@ -1533,11 +1533,6 @@ hash = "ce8ce58c524ac53153ee9780a2701f0d6d72651c110611505d6e1871b2d2865f"
 metafile = true
 
 [[files]]
-file = "mods/majrusz-library.pw.toml"
-hash = "c2e2f7409348534023bdbe5a0ebb8644832a9d24ef728a44ad2ed143df5ce581"
-metafile = true
-
-[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "79f0958db94d007778f03da083f9d75077978e3cc04b23f1081ecb2d6a4906b4"
 metafile = true
@@ -1658,6 +1653,16 @@ hash = "e868456c1197e71712b605a6a9920f422005d8ddf6c6e4ad0d88f6524f82c748"
 metafile = true
 
 [[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "0b964639fd4da2fe96e57b10f597998927853ae7bda74e2e7ad3b5858d7da23e"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "4b7300e26a0d81a4d83fb67d24a4bd01c2fbd8dc57e5ffb5dc4392646baf1ec8"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
@@ -1680,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "e3fb99dcf245b19c4add224893b8cd342c7b3db00c0f708fef9ca368b1a2d94b"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
@@ -1763,6 +1773,11 @@ hash = "a0a63344406ba71a8ac37f1b27fd1425914af104bdf4eda6d7c8d2b82250a555"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
 metafile = true
@@ -1770,6 +1785,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "f05a1d7a46d6844e139a23b46be8fa214f0029a1a9c202689e98e9f7fb67ac05"
+metafile = true
+
+[[files]]
+file = "mods/surveystones.pw.toml"
+hash = "5dfce959e00b2a6dae0ee075875f64821b9f76b174b951565fa55f28d6344dfc"
 metafile = true
 
 [[files]]
@@ -2040,9 +2060,5 @@ hash = "3add1378e964947556ec43ebc86a431981cfa67c9b95353105d7f48deb58ff3d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/photon_v1.1.zip"
-hash = "e07a3428f11d543ea9b255fc9ab96f9af26435cba8986fd774fbfcee872e68a8"
-
-[[files]]
-file = "shaderpacks/photon_v1.1.zip.txt"
-hash = "dcc60b6287488eb690ae5918c5997fcab75d90a83600c602fcaf366fc5180b0f"
+file = "shaderpacks/photon_v1.2a.zip.txt"
+hash = "df23f1ee862aa66007fa92500b47de91042d474c25c6985450089cd1c4284037"
