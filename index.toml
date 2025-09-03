@@ -61,6 +61,10 @@ file = "config/bottleyourxp.json5"
 hash = "87dccb855f08550ff547711ad38e9b27784ad5d5079ab02e5340ed25ac529f3b"
 
 [[files]]
+file = "config/bwncr.toml"
+hash = "90163a3356cb226a1b7d63308a34eaa08720a75ceb77e3a9fecf572d96f8ac41"
+
+[[files]]
 file = "config/cameraoverhaul.toml"
 hash = "86039afdfdc16b236c471f0b6725bc664d606305883aa1ab193f1f6f0efc9d3e"
 
@@ -1912,6 +1916,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/capitalized-font.pw.toml"
 hash = "3dc7778c489953413142327f36d5395b3df0c0b810f0b06879ea257e068f3c33"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chests-reimagined.pw.toml"
+hash = "493e57b8048557fafb0e6b5dec719d83fb3b11f9caede1a220b1387341e60662"
 metafile = true
 
 [[files]]

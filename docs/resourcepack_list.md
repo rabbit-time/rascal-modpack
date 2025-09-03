@@ -6,6 +6,7 @@ This is a full list of the resource packs included within this modpack, linked t
 - [Better Bushy Leaves](https://modrinth.com/resourcepack/better-busy-leaves)
 - [Better Flame Particles](https://modrinth.com/resourcepack/better-flame-particles)
 - [Capitalized Font](https://modrinth.com/resourcepack/capitalized-font)
+- [Chests Reimagined](https://modrinth.com/resourcepack/chests-reimagined)
 - [Comforts Modernized](https://modrinth.com/resourcepack/comforts-modernized)
 - [Eclectic Trove (Legendary Tooltips)](https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips)
 - [EnhancedVisuals Pixelated](https://modrinth.com/resourcepack/enhancedvisual-pixelated)
