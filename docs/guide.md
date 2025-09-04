@@ -4,13 +4,11 @@ A short guide introducing players to both the fundamentals and the intricacies o
 ## Basic mechanics
 Many gameplay mechanics have been changed or added from the base vanilla experience. This section briefly explains the most important aspects.
 
-### Progression
-Game progression has been completely overhauled, thanks to [Progression Reborn](https://modrinth.com/mod/progression-reborn) and [Majrusz's Progressive Difficulty](https://modrinth.com/mod/majruszs-progressive-difficulty). These mods are quite complex so please follow the links for more information.
-
-As a whole, the ore tier system has been rebalanced and iron and diamond tools are no longer the only tiers of progression. Futhermore, the difficulty of the game will increase after players meet major milestones in the game's progression. In addition to better loot, mobs can spawn with unique modifiers which make them more dangerous. Gone are the times of being invincible past diamond armor!
-
 ### Backpacks
 There are now backpacks which can be crafted and upgraded! You can equip one in the backpack slot and use `B` to open it.
+
+### Cameras
+Thanks to the exposure mod, realistic photography is now possible.
 
 ### Decoration
 Plenty of new blocks and furniture to explore. Take a look at the recipe book and find yourself something nice!
@@ -28,12 +26,12 @@ Farming has been overhauled and there is a cooking system!
 Dropped items now have physics! Each item can be picked up individually with `RMB`, or just sneak to pick a bunch of them up! The player can also throw items by holding the drop button. Items with a damage attribute will deal damage when thrown, such as swords or axes.
 
 ### Minimap
-An Atlas can be crafted and equipped to serve as a minimap. Use `M` to open it!
+Use `M` to open your map at any time.
 
 ### Sleep
 Craft a sleeping bag to sleep through the night without setting your spawn point. You can also craft a hammock to sleep through the day time until it is night!
 
-### Tree chopping
+### Tree harvesting
 Trees will now be harvested when chopped while sneaking. All the logs will count towards your axe's durability and leaves will decay fast.
 
 ### Vanity armor
