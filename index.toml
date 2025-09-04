@@ -178,7 +178,7 @@ hash = "621ee77a3b5d9a3f6de2a1982a2846b86f894bcabfce070a17823348a9872c3c"
 
 [[files]]
 file = "config/factions.json"
-hash = "80b157b616c62b6b971aa16a0f2b73386ff5b8bcd5e0edeea5916121db8db329"
+hash = "b3770b4ca502349416de3a046ed5990a6b14051cbd91f7ff8dfbb7e23c670e99"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -957,10 +957,6 @@ file = "config/yacl.json5"
 hash = "eb9772826e24df9bbb9c5954eea6ba70213aa0adaa90ce7d471149a58588c0c5"
 
 [[files]]
-file = "config/zoomify.json"
-hash = "b26267df5d40051b044998abde020d7fcdb1c3ee3ad1c6ce6f8d7c05fc83b715"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1e356c39dca0549fd7a88da7f183b7f65cb63dcdd48d120b8dd5b75dbad6999"
 metafile = true
@@ -1186,6 +1182,11 @@ hash = "46e54281407585e90108d9059f67ad8cc33bc9e7ea971a7bbb21655106e2cc21"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "bfe939f563e561df6410a82e9f36ec3793634e470c9b729088072ff8824018ac"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "ad781bf97579feb5ba468b4224fa0ce62c88b5b0f8ecbbe981650229ac4dc8e2"
 metafile = true
@@ -1283,6 +1284,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement.pw.toml"
 hash = "72631f00c7bbaee63ced573f42df14d049e364822dbb97e071ea85c19d43fc71"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
 metafile = true
 
 [[files]]
@@ -1481,6 +1487,11 @@ hash = "51906a6daced511c4a3ae936f79c238f2be03e754a5a289aa265e763269e6130"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "e78faacb02c5ad86a31ff1178d48c5b231433bb1128584c987ef60224057fb75"
 metafile = true
@@ -1537,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "mods/niftycarts.pw.toml"
-hash = "36fba9bc04d87b14d7b4201cc3958f5e8aa5873b23c3c3564f8ce437e11dc1b7"
+hash = "afcdc96ef0598a4790f2470b3149d69b7cf196997132f298de8b80d1823240de"
 metafile = true
 
 [[files]]
@@ -1578,6 +1589,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "8d6be021a4ecb4e7f97cbfd8deaad7524ff48a5af634247922ad63bd23555b14"
 metafile = true
 
 [[files]]
@@ -1696,8 +1717,18 @@ hash = "e79fb17a4772d75a95f8c1fce0684988f4ca6ffcf24706ec71ca11fa4d5ed663"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-improvements.pw.toml"
+hash = "736bdfebf5b0bccfa76484b446bbe8e95aafe2314a80826a9992162068080549"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "5267cd0ff94e2695e70720e94c8940045a6a7371c89c3adcad48660b303698dd"
 metafile = true
 
 [[files]]
@@ -1881,13 +1912,8 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "738aac399530585aeb0807e7c4568d1deaac113de9666fef7cf5f69edac5e705"
-metafile = true
-
-[[files]]
 file = "options.txt"
-hash = "f7125135fc9dd1bafda236e71dcaa3eda0f3c7db823bf63345c6ca528b70facd"
+hash = "ed37ed8697367d3ddf0b101cbb396e01540b2b7277c071a4a23eefc487411284"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r304641.zip"
