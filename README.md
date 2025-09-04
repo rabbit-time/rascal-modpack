@@ -36,10 +36,9 @@ A written [guide](./docs/guide.md) is available to help players orient themselve
 
 1. Install any Minecraft launcher that supports Modrinth packfiles (`.mrpack`). If you're using a launcher doesn't support `.mrpack` files, you must manually [build](./README.md#build-guide) the packfiles. If you don't know what you're doing, use the [Modrinth App](https://modrinth.com/app).
 2. Download the latest release of the packfiles. Then, create a new Minecraft instance in your launcher by importing the packfiles.
-3. Set the Java installation to Java 21. For the Modrinth App, navigate through `Settings > Java Installations > Java 21 Location` and copy the path there. If there's no installation, click *Install recommended* and a path will be generated when it's done. Navigate to your instance settings and find *Java installation* and paste the path there.
-4. In your instance settings, manually set your Memory allocation to at least 8 GiB.
-5. Launch the game.
-6. It is highly recommended to disable shaders and Distant Horizons if you're using less powerful hardware.
+3. In your instance settings, manually set your Memory allocation to at least 8 GiB. You can also set a default for all instances in Modrinth App settings.
+4. Launch the game.
+5. It is highly recommended to disable shaders and Distant Horizons if you're using less powerful hardware.
 
 ## Build guide
 A platform independent build guide for those looking to run a server instance.
