@@ -1,6 +1,6 @@
 name = "AntiXray"
 filename = "antixray-fabric-1.4.6+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sml2FMaA/versions/6vxHsVZq/antixray-fabric-1.4.6%2B1.20.1.jar"
