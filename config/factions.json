@@ -33,7 +33,7 @@
     ]
   },
   "maxFactionSize": -1,
-  "friendlyFire": false,
+  "friendlyFire": true,
   "requiredBypassLevel": 2,
   "claimProtections": true
 }
