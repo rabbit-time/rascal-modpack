@@ -988,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
+hash = "d781d12c8f16b312746dc02b5b0b5b9d60a4e5f11f81519c24c80c3ff7b16fd2"
 metafile = true
 
 [[files]]
@@ -1714,6 +1714,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "e79fb17a4772d75a95f8c1fce0684988f4ca6ffcf24706ec71ca11fa4d5ed663"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
