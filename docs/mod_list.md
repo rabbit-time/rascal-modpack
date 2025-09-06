@@ -148,6 +148,7 @@ This is a full list of the mods included within this modpack, linked to their re
 - [Status Effect Bars](https://modrinth.com/mod/status-effect-bars)
 - [Stendhal](https://modrinth.com/mod/stendhal)
 - [Time and Wind](https://modrinth.com/mod/time-wind)
+- [Trade Cycling](https://modrinth.com/mod/trade-cycling)
 - [Trinkets](https://modrinth.com/mod/trinkets)
 
 ## Performance, Fixes & Optimization
