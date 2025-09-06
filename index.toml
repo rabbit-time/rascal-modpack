@@ -905,6 +905,10 @@ file = "config/splash.properties"
 hash = "4487c232b8e89350fbcd95e152cc29de13541a0ed0f15fc533b907e066418650"
 
 [[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "488a7bb06c313432091e3c86efa257768873841cb10dc089098b53340b583ea1"
+
+[[files]]
 file = "config/status-effect-bars.json"
 hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
 
@@ -1812,6 +1816,11 @@ hash = "53dda3fda3086c6a827574cbaeb9cd32532222cfd114d1a1af46f13b8b8d0adb"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "df71b5d7427e9a508e9f298b5cdec84aa8c4fcb584beb0d16d86efb9d47b3bcd"
+metafile = true
+
+[[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "36eef246d7ea07c3408e840b52b9c2a7f0ca4c0bf5160033ce63190a9109e63d"
 metafile = true
@@ -1970,11 +1979,6 @@ hash = "2206930e93036fb6ab4d3fd120ce9866c809e08b8a9d81d1f7f5a9344a4b8546"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fancy-glint.pw.toml"
-hash = "59f2857d1fb47f8586b66f31180bb80e7a9426ce11cbf2a0b88c63958b500fd3"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
@@ -1991,7 +1995,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rascal_modpack_assets.zip"
-hash = "3fe9ac068bca48d918719d5252a9f0b6e9db83062d52d4a20f796c54d974fb06"
+hash = "8712fc3dfe72badfd32d87626081437cb25413b9e2f1d9303747e6f6e839616b"
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
