@@ -10,7 +10,6 @@ This is a full list of the resource packs included within this modpack, linked t
 - [Comforts Modernized](https://modrinth.com/resourcepack/comforts-modernized)
 - [Eclectic Trove (Legendary Tooltips)](https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips)
 - [EnhancedVisuals Pixelated](https://modrinth.com/resourcepack/enhancedvisual-pixelated)
-- [Fancy Glint](https://modrinth.com/resourcepack/fancy-glint)
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 - [Fresh Waystones Texture](https://modrinth.com/resourcepack/fresh-waystones-texture)
 - [Lanostry's Foxes](https://modrinth.com/resourcepack/lanostryfoxes)
