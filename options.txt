@@ -162,10 +162,6 @@ key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.unknown
 key_key.shouldersurfing.toggle_x_offset_presets:key.keyboard.unknown
 key_key.shouldersurfing.toggle_y_offset_presets:key.keyboard.unknown
 key_key.shouldersurfing.toggle_z_offset_presets:key.keyboard.unknown
-key_key.tempad.shortcut:key.keyboard.unknown
-key_key.tempad.favorite:key.keyboard.unknown
-key_zoomify.key.zoom:key.keyboard.z
-key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.o
