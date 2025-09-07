@@ -1132,7 +1132,7 @@ metafile = true
 
 [[files]]
 file = "mods/companion.pw.toml"
-hash = "8a2f2bc8b8b2daeced8ea95a8752e5dc1cd781146b481da8ce107f1b9f9dbd37"
+hash = "d48eb667e1c7a4198d30623b247d32354fa5ce80d298b692bcec13b627e16856"
 metafile = true
 
 [[files]]
@@ -1927,7 +1927,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ed37ed8697367d3ddf0b101cbb396e01540b2b7277c071a4a23eefc487411284"
+hash = "eb4d2786ea567afdb7cc3d59983fe6c82438bef11a4a1e9d2549f646af66829c"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r304641.zip"
@@ -2043,4 +2043,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.2a.zip.txt"
-hash = "df23f1ee862aa66007fa92500b47de91042d474c25c6985450089cd1c4284037"
+hash = "9fc02fd097defa3d4876870af4c7aab30c40d229e17ed0057fef5130ad9bd0c3"
