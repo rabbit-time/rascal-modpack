@@ -1989,6 +1989,11 @@ hash = "30eb25d58845dd773eab2f7c275ad3b06b17b369f87ed89b64985bcd73fca16c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/freshlanostryfoxes.pw.toml"
+hash = "f21a76c2376796655014a99f1d3111ae69d65332dcca43b3d2f0b90d7af3d03c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lanostryfoxes.pw.toml"
 hash = "a656a75f98b5a0c667edfd04f54db5ac777af8f13302936bf25aeb395130d16d"
 metafile = true

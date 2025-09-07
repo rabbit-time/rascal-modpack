@@ -11,6 +11,7 @@ This is a full list of the resource packs included within this modpack, linked t
 - [Eclectic Trove (Legendary Tooltips)](https://modrinth.com/resourcepack/eclectic-trove-legendary-tooltips)
 - [EnhancedVisuals Pixelated](https://modrinth.com/resourcepack/enhancedvisual-pixelated)
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+- [Fresh Lanostry's Foxes](https://modrinth.com/resourcepack/freshlanostryfoxes)
 - [Fresh Waystones Texture](https://modrinth.com/resourcepack/fresh-waystones-texture)
 - [Lanostry's Foxes](https://modrinth.com/resourcepack/lanostryfoxes)
 - [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers)

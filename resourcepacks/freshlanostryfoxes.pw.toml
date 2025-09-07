@@ -1,0 +1,14 @@
+name = "Fresh Lanostry's foxes"
+filename = "Fresh Lanostry Foxes.zip"
+side = "client"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/EZ9jKpPC/versions/PKGCJBtV/Fresh%20Lanostry%20Foxes.zip"
+hash-format = "sha512"
+hash = "ce40325de2f29c4391c7552f59d304a48bf416bdd1ae1303ce261ad943196d69ff6a8f6389773725dbde46869434bcb78ad32b90bf158d59095a287fdcf6cf9f"
+
+[update]
+[update.modrinth]
+mod-id = "EZ9jKpPC"
+version = "PKGCJBtV"
