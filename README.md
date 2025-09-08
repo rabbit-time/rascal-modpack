@@ -34,20 +34,27 @@ A written [guide](./docs/guide.md) is available to help players orient themselve
 ## Installation
 [![modrinth](https://img.shields.io/modrinth/game-versions/F9jhv9Km?color=00AF5C&label=latest&logo=modrinth&style=flat&last=true)](https://modrinth.com/modpack/rascal-modpack)
 
-1. Install any Minecraft launcher that supports Modrinth packfiles (`.mrpack`). If you're using a launcher doesn't support `.mrpack` files, you must manually [build](./README.md#build-guide) the packfiles. If you don't know what you're doing, use the [Modrinth App](https://modrinth.com/app).
-2. Download the latest release of the packfiles. Then, create a new Minecraft instance in your launcher by importing the packfiles.
-3. In your instance settings, manually set your Memory allocation to at least 8 GiB. You can also set a default for all instances in Modrinth App settings.
-4. Launch the game.
-5. It is highly recommended to disable shaders and Distant Horizons if you're using less powerful hardware.
+### Modrinth App
+*If you don't know what you're doing, use this method.*
+1. Install the latest version of the [Modrinth App](https://modrinth.com/app).
+2. Navigate to "Discover content" on the left-hand bar and search for "Rascal Modpack" and install it.
+3. In your instance settings, manually set your memory allocation to at least 8 GiB. You can also set a default for all instances in your general Modrinth settings, if you don't want to do this every time.
+4. Launch the game. Shaders will be disabled by default but can be accessed with `CTRL+O` while in a world.
 
-## Build guide
+### Other launchers
+1. Using another launcher that supports Modrinth packfiles (`.mrpack`). If you're using a launcher doesn't support `.mrpack` files, you must manually [build](./README.md#build-guide) the packfiles.
+2. Download the latest release of the packfiles from [Modrinth](https://modrinth.com/modpack/rascal-modpack). Then, create a new Minecraft instance in your launcher by importing the packfiles.
+3. In your instance settings, manually set your memory allocation to at least 8 GiB.
+4. Launch the game. Shaders will be disabled by default but can be accessed with `CTRL+O` while in a world.
+
+### Build guide
 A platform independent build guide for those looking to run a server instance.
 
 1. Clone Rascal Modpack on your system and swap to the stable branch: `git checkout stable`.
 2. Install [packwiz](https://github.com/packwiz/packwiz) following their installation guide.
 3. Run `packwiz mr export` to generate Modrinth packfiles (`.mrpack`).
 4. Alternatively, run `packwiz cf export` to generate packfiles with `.jar` files.
-5. Drop the override files into your instance.
+5. Drop the contents of the `overrides` folder into your instance.
 
 ## Support
 Please refer to the [FAQ](./docs/faq.md) for help. For suggestions and bug reports, please submit an [issue](https://github.com/rabbit-time/rascal-modpack/issues).
