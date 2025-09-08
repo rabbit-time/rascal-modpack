@@ -62,7 +62,7 @@ hash = "87dccb855f08550ff547711ad38e9b27784ad5d5079ab02e5340ed25ac529f3b"
 
 [[files]]
 file = "config/bwncr.toml"
-hash = "90163a3356cb226a1b7d63308a34eaa08720a75ceb77e3a9fecf572d96f8ac41"
+hash = "719ac523430d387933b2d284d2b9148ffea47d9826c23a97f7505ea02a006158"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
