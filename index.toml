@@ -2000,7 +2000,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/rascal_modpack_assets.zip"
-hash = "8712fc3dfe72badfd32d87626081437cb25413b9e2f1d9303747e6f6e839616b"
+hash = "93441c685fb94b385a22ec7a4fae68e18e68b818c40901b451b7661b3e94751e"
 
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
