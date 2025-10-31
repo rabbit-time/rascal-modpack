@@ -8,6 +8,10 @@ dir: str = './mods/'
 files: list[str] = os.listdir(dir)
 
 for filename in files:
+    if not filename.endswith('.toml'):
+        print(f'{filename} is OK. Skipping file.')
+        continue
+
     with open(dir+filename, 'r+', encoding="utf-8") as file:
         contents: tomlkit.TOMLDocument = tomlkit.parse(file.read())
         if contents['side'] == 'server':
