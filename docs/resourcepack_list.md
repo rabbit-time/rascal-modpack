@@ -1,8 +1,8 @@
 # Resource Pack List
 This is a full list of the resource packs included within this modpack, linked to their respective sources.
 
+- [Assembled Legendary Tooltips](https://modrinth.com/resourcepack/assembled-legendary-tooltips)
 - [Artisan's Armory](https://modrinth.com/resourcepack/artisans-armory)
-- [Banner Pattern Clarity](https://modrinth.com/resourcepack/banner-pattern-clarity)
 - [Better Bushy Leaves](https://modrinth.com/resourcepack/better-busy-leaves)
 - [Better Flame Particles](https://modrinth.com/resourcepack/better-flame-particles)
 - [Capitalized Font](https://modrinth.com/resourcepack/capitalized-font)
@@ -13,7 +13,11 @@ This is a full list of the resource packs included within this modpack, linked t
 - [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 - [Fresh Lanostry's Foxes](https://modrinth.com/resourcepack/freshlanostryfoxes)
 - [Fresh Waystones Texture](https://modrinth.com/resourcepack/fresh-waystones-texture)
+- [Gentler Weather Sounds](https://modrinth.com/resourcepack/gentler-weather-sounds)
 - [Lanostry's Foxes](https://modrinth.com/resourcepack/lanostryfoxes)
+- [Legacy Crunch](https://modrinth.com/resourcepack/legacy-crunch)
+- [Os' Colorful Grasses](https://modrinth.com/resourcepack/os-colorful-grasses)
+- [RAY's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders)
 - [Simple Grass Flowers](https://modrinth.com/resourcepack/simple-grass-flowers)
 - [SPBR-BlockEmission](https://modrinth.com/resourcepack/spbr-blockemission)
 - [SPBR-Farmer's Delight](https://modrinth.com/resourcepack/spbr-farmersdelight)
