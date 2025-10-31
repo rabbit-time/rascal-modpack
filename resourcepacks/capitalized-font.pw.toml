@@ -1,13 +1,13 @@
 name = "Capitalized Font"
-filename = "Capitalized Font 1.21.5.zip"
+filename = "Capitalized Font 1.20.x.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TAiVqEx5/versions/KwCzAEx4/Capitalized%20Font%201.21.5.zip"
+url = "https://cdn.modrinth.com/data/TAiVqEx5/versions/1tvjEKPR/Capitalized%20Font%201.20.x.zip"
 hash-format = "sha512"
-hash = "d87539ccd61f1fb5e5cd8594963c9d763d56536474f77618c8de31158b4a0df28e4683a89a891e5c7ca83f5c81ae66b39611e6fcd39cc13468098970a25a639f"
+hash = "e283b84f0b33ee8bc01cd4befe281e1ba1ead253a9808d05cf19d636cc5868d654ec7dcdebceb66848ce902b8a708c2df14e11868130de4240c33993e68918a0"
 
 [update]
 [update.modrinth]
 mod-id = "TAiVqEx5"
-version = "KwCzAEx4"
+version = "1tvjEKPR"
