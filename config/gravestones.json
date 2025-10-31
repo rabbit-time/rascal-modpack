@@ -9,7 +9,7 @@
   "aesthetic_decay": false,
   "store_experience": true,
   "experience_cap": true,
-  "experience_kept": "ALL",
+  "experience_kept": "THREE_QUARTERS",
   "experience_decay": true,
   "drop_experience": false,
   "gravestone_accessible_owner_only": false,
