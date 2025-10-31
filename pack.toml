@@ -1,13 +1,13 @@
 name = "Rascal Modpack"
 author = "Rascal"
-version = "0.4.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "470d4f2454a5753747c60b575cce6f468aa2cdb1bbd606fdb4762e0cd601c6e4"
+hash = "4f83318b0052d07ba16218ad979505a011ae082b11367827579e78ef19fc853e"
 
 [versions]
-fabric = "0.17.2"
-minecraft = "1.20.1"
+fabric = "0.17.3"
+minecraft = "1.21.1"
