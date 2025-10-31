@@ -1,0 +1,13 @@
+name = "Rascal's Field Guide"
+filename = "rascal-guidebook-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dsoOMJ4a/versions/AkWD5PDO/rascal-guidebook-1.0.jar"
+hash-format = "sha512"
+hash = "1ba42ca48c1eb06f521267e5cbad809fcfb8b24b0ef428426948622f6b236600589a9ae8569dfd1bffa82b5077b938eff33b94a05bc35bfb5d7772b2534307b7"
+
+[update]
+[update.modrinth]
+mod-id = "dsoOMJ4a"
+version = "AkWD5PDO"
