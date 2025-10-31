@@ -4,7 +4,7 @@
 ![issues](https://img.shields.io/github/issues-raw/rabbit-time/rascal-modpack?style=flat&label=issues&color=22272E&logo=github)
 ![license](https://img.shields.io/github/license/rabbit-time/rascal-modpack?style=flat)
 ![mods](https://img.shields.io/github/directory-file-count/rabbit-time/rascal-modpack/mods?type=file&style=flat&label=mods)
-![fabric-loader](https://img.shields.io/badge/fabric--loader-0.17.2-blue?style=flat)
+![fabric-loader](https://img.shields.io/badge/fabric--loader-0.17.3-blue?style=flat)
 
 Rascal modpack is a vanilla-plus pack aiming to enhance the Minecraft experience. It was designed with gameplay, balance, quality of life, and performance in mind. It was crafted with passion and I hope that you enjoy it.
 
@@ -18,18 +18,15 @@ Here are some of the major features included in this modpack:
 - Plenty of new structures, wildlife, and biomes
 - Backpacks
 - Waystones
-- Vanity armor slots
-- Vanilla-friendly minimaps
+- Vanilla-friendly world maps
 - Interactive item physics
 - Expanded farming and cooking
 - Wide selection of new furniture and building blocks
-- Experience storage (at a cost)
 - Numerous quality of life features
 
-A full list of mods are credited [here](./docs/mod_list.md) and [here](./docs/resourcepack_list.md) for resource packs.
+An in-game guidebook is provided to help players learn about all the features.
 
-## Guide
-A written [guide](./docs/guide.md) is available to help players orient themselves with basic gameplay mechanics and explore the best features in this modpack. It is **highly recommended** to utilize the guide.
+A full list of mods are credited [here](./docs/mod_list.md) and [here](./docs/resourcepack_list.md) for resource packs.
 
 ## Installation
 [![modrinth](https://img.shields.io/modrinth/game-versions/F9jhv9Km?color=00AF5C&label=latest&logo=modrinth&style=flat&last=true)](https://modrinth.com/modpack/rascal-modpack)
