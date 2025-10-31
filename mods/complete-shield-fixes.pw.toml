@@ -1,13 +1,13 @@
 name = "Shield Fixes"
-filename = "WalksyCompleteShieldFixes-1.20.1.jar"
+filename = "WalksyCompleteShieldFixes-1.3.0-1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HfLFMeJe/versions/eb3t0Cmy/WalksyCompleteShieldFixes-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/HfLFMeJe/versions/1apqvIb0/WalksyCompleteShieldFixes-1.3.0-1.21.1.jar"
 hash-format = "sha512"
-hash = "dcbdab30810e7e96e7feae5e7a6e1cc3e2a6d83e37e976a1ae58cb9720141ffefe2118135b5ca94c946a2c9b014f4d0a6c8f5839d72fd72b5a003a63f89d5947"
+hash = "c1bdf25e29d245a5f1f0f9e2858fe01fd5a8d55b95f0f9d19c1c6729334bf6ed0363e49ce9446bbd9f5bfd6265dea6a7a4862ced9c1b2a537a5ebb5cee650ffc"
 
 [update]
 [update.modrinth]
 mod-id = "HfLFMeJe"
-version = "eb3t0Cmy"
+version = "1apqvIb0"

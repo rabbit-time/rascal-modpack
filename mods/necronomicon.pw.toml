@@ -1,13 +1,13 @@
 name = "Necronomicon API"
-filename = "Necronomicon-Fabric-1.6.0+1.20.1.jar"
+filename = "Necronomicon-Fabric-1.6.0+1.21.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P1Kv5EAO/versions/bgc6xYvl/Necronomicon-Fabric-1.6.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/P1Kv5EAO/versions/O6odCETu/Necronomicon-Fabric-1.6.0%2B1.21.jar"
 hash-format = "sha512"
-hash = "c412d5e028085b6b21c611b3d2c60bbc9f4aae442bb448e80a40a44568d715415d5713f1bdc7e023937e7f7d50e855b47dd31e4fed4cfb856f709c0c0996e782"
+hash = "0deeb7ed7914994bf274547d7c665be460a27a2526adc00f3708b257bab8b51204dc6c8b3b2259440c57b3ebfeaa3d8ca9e9c4308f0265a041233dbeb5eae2af"
 
 [update]
 [update.modrinth]
 mod-id = "P1Kv5EAO"
-version = "bgc6xYvl"
+version = "O6odCETu"

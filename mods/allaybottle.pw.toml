@@ -1,13 +1,13 @@
 name = "Allay in a Bottle"
-filename = "Allay-In-A-Bottle-FABRIC-1.1.2.jar"
+filename = "allaybottle-1.3.1-backport-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/O9DQqxgb/versions/hDR01zgC/Allay-In-A-Bottle-FABRIC-1.1.2.jar"
-hash-format = "sha1"
-hash = "9f4fb7105e18016115cfa7299d735fe76be513a8"
+url = "https://cdn.modrinth.com/data/O9DQqxgb/versions/VCVH3EFY/allaybottle-1.3.1-backport-1.21.1.jar"
+hash-format = "sha512"
+hash = "9fab5e7edd0209bc66c8541f4fb413eb39c763df9e2c31477439ffad50294da69ea612b4b7e79bd105d4c82c655ff6eafe96d246e7847eadcd02172aa6f54cb1"
 
 [update]
 [update.modrinth]
 mod-id = "O9DQqxgb"
-version = "hDR01zgC"
+version = "VCVH3EFY"
