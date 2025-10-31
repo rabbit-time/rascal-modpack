@@ -1,0 +1,13 @@
+name = "Legacy Crunch"
+filename = "Legacy Crunch 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UbKC6eVV/versions/ietAPfak/Legacy%20Crunch%201.1.zip"
+hash-format = "sha512"
+hash = "3ce564906da0d13eaee994eb796866adbd18c8d11cdea9e11d5203024063314645e4a0e1a9e98e5f0fcc4eb12d6016151371d700c0641a750779044143e1a841"
+
+[update]
+[update.modrinth]
+mod-id = "UbKC6eVV"
+version = "ietAPfak"
