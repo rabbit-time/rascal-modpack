@@ -1,13 +1,13 @@
 name = "Stefan's Enchanted Books"
-filename = "Stefan'sEnchantedBooks 1.20.2.zip"
+filename = "Stefan'sEnchantedBooks 1.21.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/apRwIWGw/versions/gbzn4Fcm/Stefan%27sEnchantedBooks%201.20.2.zip"
+url = "https://cdn.modrinth.com/data/apRwIWGw/versions/woAQdSym/Stefan%27sEnchantedBooks%201.21.zip"
 hash-format = "sha512"
-hash = "a4695113d0c100de28211c02bf16add57ef62f69ce3a2a4b57fb1efa6755258992c6fa6aa098d3123fd875a8aaf1161e969d26a886bb15959d826245c0bb4de1"
+hash = "f8c144a40fe4cdfcff29307a6ff4095c46d9b277f410d3a6c58903fb9c5fb7a82ef1f573a1efa85f04509228ce2eb7950ff1f056be6a7333136bb8492d1bc140"
 
 [update]
 [update.modrinth]
 mod-id = "apRwIWGw"
-version = "gbzn4Fcm"
+version = "woAQdSym"
