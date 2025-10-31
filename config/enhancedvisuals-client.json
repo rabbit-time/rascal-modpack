@@ -2,12 +2,14 @@
   "general": {
     "doEffectsInCreative": true,
     "waterSubstractFactor": 10,
-    "enableDamageDebug": false
+    "enableDamageDebug": false,
+    "fixBlurShader": true
   },
   "handlers": {
     "explosion": {
       "enabled": true,
       "opacity": 1.0,
+      "beepSound": "enhancedvisuals:ringing",
       "dust": {
         "disabled": false,
         "opacity": 0.24918033,
