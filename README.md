@@ -50,7 +50,7 @@ A written [guide](./docs/guide.md) is available to help players orient themselve
 ### Build guide
 A platform independent build guide for those looking to run a server instance.
 
-1. Clone Rascal Modpack on your system and swap to the stable branch: `git checkout stable`.
+1. Clone Rascal Modpack on your system and swap to the desired branch: `git checkout [branch]`.
 2. Install [packwiz](https://github.com/packwiz/packwiz) following their installation guide.
 3. Run `packwiz mr export` to generate Modrinth packfiles (`.mrpack`).
 4. Alternatively, run `packwiz cf export` to generate packfiles with `.jar` files.
@@ -58,3 +58,4 @@ A platform independent build guide for those looking to run a server instance.
 
 ## Support
 Please refer to the [FAQ](./docs/faq.md) for help. For suggestions and bug reports, please submit an [issue](https://github.com/rabbit-time/rascal-modpack/issues).
+
