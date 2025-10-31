@@ -1,0 +1,13 @@
+name = "MoreLeads"
+filename = "MoreLeads-fabric-1.21-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/htaRjgnu/versions/wfEl6Z62/MoreLeads-fabric-1.21-1.2.0.jar"
+hash-format = "sha512"
+hash = "fdd644f618236ac98fdea6b13812028aec0d25ae1f762e80330566d64b12a368b15b47aa265a2d29bb78368cac09d16ba6f80debe26be80c183a06cc402445af"
+
+[update]
+[update.modrinth]
+mod-id = "htaRjgnu"
+version = "wfEl6Z62"
