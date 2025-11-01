@@ -10,7 +10,7 @@ hash = "9c75293d44366c17f332f5868f5ad28fb48aede002c1081fdee7ffef5974b0cd"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "f43515140af30dc822d00e34e9aa23d85faf2d26f3b9bc36021e29d85f839e56"
+hash = "aef4512452ad9f1dc054ffe9b2b6a8e515a91e90df72217ce7d2327151c54823"
 
 [[files]]
 file = "config/beautify.json"
@@ -18,7 +18,7 @@ hash = "e056ddb0a858ae874dc19db254ad05b2ba9c8b2aedea00dd2b61018492c33a07"
 
 [[files]]
 file = "config/betterdays-common.toml"
-hash = "1a79ad88a633fa304eebe64db17fb188716d0865769d1d76e3f21a8be7ce69f8"
+hash = "1c0ccfe0a97d31f791a440de826ae57668744e9d23e4fd2e2de31f5f75f13556"
 
 [[files]]
 file = "config/betterf3.json"
@@ -45,20 +45,12 @@ file = "config/durabilitytooltip-common.toml"
 hash = "33dce8db596480e5101c5238a89a62ad1cb5231e1afdf7ca206e79ea8ab9cd4a"
 
 [[files]]
-file = "config/emi.css"
-hash = "4eb888720b555637af9d50e6e2849de8542dc2c28cdc581e4253ef8e512d2ee2"
-
-[[files]]
 file = "config/enhancedvisuals-client.json"
 hash = "9ab08a384c3cc9558a44de13b127393a77918af14f6dd7db2c47bc7922948ba8"
 
 [[files]]
 file = "config/explosiveenhancement.json"
 hash = "91299501c49e2b907439a77189e031842b24c313aca4ac3fc301c34b63e4ae33"
-
-[[files]]
-file = "config/factions.json"
-hash = "b3770b4ca502349416de3a046ed5990a6b14051cbd91f7ff8dfbb7e23c670e99"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -119,6 +111,10 @@ hash = "a01ecd07d94299e49b00f888e03f77a2a80b0eb929170553b07af43ac5712838"
 [[files]]
 file = "config/shouldersurfing.toml"
 hash = "5c2d79965226dc1be7ab39c113b5db5aff3ffd60d8990456286bb0c37441b869"
+
+[[files]]
+file = "config/sleepwarp.json"
+hash = "2933453f232dca52d6d9913a81a20ee1bf9408b9c74b5cbd317922cccf44a4ca"
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -615,6 +611,11 @@ hash = "eda5b091e0f753f42c557e5ef2a1efba2b17c11e44115d93f90c246290627146"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "c9d5144709687e4bc27489fafe94d8cedf42932b60469fb2153e5144322d68b8"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
 metafile = true
@@ -822,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "8812678c1ce32aff07aa072407f9ccbbf5a1a255ce24089abfe0397e9e93a976"
+metafile = true
+
+[[files]]
+file = "mods/sleep-warp-updated.pw.toml"
+hash = "4b64d90b57f471a659386b19092a58f59a024e6806997bb1c18dab394d31f13c"
 metafile = true
 
 [[files]]
