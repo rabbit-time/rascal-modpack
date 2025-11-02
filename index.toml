@@ -831,6 +831,11 @@ hash = "4b64d90b57f471a659386b19092a58f59a024e6806997bb1c18dab394d31f13c"
 metafile = true
 
 [[files]]
+file = "mods/slime-amulet.pw.toml"
+hash = "24d8c05d4ce2e73c890bd08f9983bb4caecde0b73b8c8f938da359a2088589ef"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "c175d28a5ef93b099cb23b5fc90a9821623f088f98e30f0eb0ccda1236f9bb30"
 metafile = true

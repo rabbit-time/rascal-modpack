@@ -1,0 +1,13 @@
+name = "Slime Amulet"
+filename = "slime-amulet-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ay1osAsR/versions/ecpUDpxq/slime-amulet-1.0.jar"
+hash-format = "sha512"
+hash = "ae51b9aaf8876c6fa91276b27eee304ae5e70b037ce61edaeb711e84a8cb137dfc19d031400c8166037f6c98af8625f7b3d7a5ae771d86bdffc8e24feef6dfdd"
+
+[update]
+[update.modrinth]
+mod-id = "Ay1osAsR"
+version = "ecpUDpxq"
