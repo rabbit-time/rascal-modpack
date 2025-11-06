@@ -69,7 +69,6 @@ This is a full list of the mods included within this modpack, linked to their re
 - [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 - [YUNG's Bridges](https://modrinth.com/mod/yungs-bridges)
 - [YUNG's Extras](https://modrinth.com/mod/yungs-extras)
-- [Zombie Awareness](https://modrinth.com/mod/zombie-awareness)
 
 ## Multiplayer
 - [AntiXray](https://modrinth.com/mod/anti-xray)
