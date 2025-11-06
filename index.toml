@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "0447732ee8ba3c080eb8d2e8285a704c91d3a9720ba23c468cef42c546b120ec"
+hash = "ce29cab6168c496ad08cad52a54b087a19e2432347961218d6ab1c819b45da26"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobweb.pw.toml"
-hash = "fa767604387c15268ae565381b68afcfe39c7284d24fd5e08c76c6e6ca8da2eb"
+hash = "49da1f100b78a8ad75c06dce97631944dfadc3598c0283d0217a80eb0b2e45b5"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "faf26dbe7a176c064ee853a94281225928d0d7be6399d4c2396629bca7f85416"
+hash = "6b58adc0caa94e0ec9ab4a472081456f1e7bcad169546373d0f01d1ed2ddaff5"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fa01d0d1b480410d3b46647b676849a7c266a9a9c0fdf444cbf80eb56a559d92"
+hash = "72b66feba28a559029e5d3bc550d093078f930539a8b7dc1d13ce4e1e1781012"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/rascal-guidebook.pw.toml"
-hash = "3676d1e6b65d08b60f1cd355ae97c5e8f078fca7fdadcd57e3bac4432ca62658"
+hash = "99cd665d9b489466ddf161698b3cd9f9eaf3e78e43e2c549ae7a8d3525305559"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "8812678c1ce32aff07aa072407f9ccbbf5a1a255ce24089abfe0397e9e93a976"
+hash = "0acfa083843516a0c2bcd86272daac9264456ab2d80e6b46eead8bdb0a20fd5b"
 metafile = true
 
 [[files]]
@@ -1060,11 +1060,6 @@ hash = "745fd5cd0b5ddaca6b0fba915428c63a47d32ee9e281c3661b41aa34dd8b653b"
 metafile = true
 
 [[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "597a74f79ce4013258c7c45621d63d14c37e89658cd002bcf7193a9beaabb176"
-metafile = true
-
-[[files]]
 file = "options.txt"
 hash = "d7ce225ed5e9a732eb6886a7690c2acedc12769f6ac9891372f42059bbcf3ad5"
 
@@ -1099,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chests-reimagined.pw.toml"
-hash = "79c7a30c188101161406e9d137b6973edd19c58e20f9c00bfe3abd419373d048"
+hash = "612349c234a8bdbd15f0ecdb113664dd81d6154da8f21cddc161ec0e5faa3126"
 metafile = true
 
 [[files]]
