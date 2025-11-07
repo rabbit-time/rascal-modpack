@@ -5,6 +5,7 @@
     "moonlight:merged_pack",
     "continuity:default",
     "continuity:glass_pane_culling_fix",
+    "antique_atlas:shader_patch",
     "file/Vanilla Mashup 1.4.1b.zip",
     "file/VanillaTweaks_r202885_MC1.21.x.zip",
     "file/SPBR-Farmer's Delight_1.1.zip",
@@ -47,6 +48,7 @@
       "moonlight:merged_pack",
       "continuity:default",
       "continuity:glass_pane_culling_fix",
+      "antique_atlas:shader_patch",
       "file/EclecticTrove-noconfig-1.20.1-1.3.0.zip",
       "file/Pixelated_v1.3.4_EnhancedVisuals(nox_cgt).zip"
     ],
