@@ -1,6 +1,6 @@
 {
   "action_bar_messages": true,
-  "use_sleep_percentage": false,
+  "use_sleep_percentage": true,
   "tick_game_time": false,
   "tick_block_entities": false,
   "tick_random_block": false,
