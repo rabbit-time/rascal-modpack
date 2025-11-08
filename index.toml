@@ -102,7 +102,7 @@ hash = "0cbaf6c3259cc7d43fa97abef4205afc0c52c562599cac4fe7a4b10a17515fd3"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b259b8028d45c074ce622691a91ce59e2cb68c98358fde8cb37f3767b33b1d2c"
+hash = "aa3f7ffed6a8ce4b3f05e6e57e460670e16def81087bb7d5fce7f68e82524dfc"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
@@ -114,7 +114,7 @@ hash = "5c2d79965226dc1be7ab39c113b5db5aff3ffd60d8990456286bb0c37441b869"
 
 [[files]]
 file = "config/sleepwarp.json"
-hash = "2933453f232dca52d6d9913a81a20ee1bf9408b9c74b5cbd317922cccf44a4ca"
+hash = "45eab61f129584063bcb152fbd98e575ad2bccebc01b14131b3823147fe8ad68"
 
 [[files]]
 file = "config/smoothswapping.json"
