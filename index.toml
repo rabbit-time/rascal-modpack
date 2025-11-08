@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/rascal-guidebook.pw.toml"
-hash = "99cd665d9b489466ddf161698b3cd9f9eaf3e78e43e2c549ae7a8d3525305559"
+hash = "fc65308a6a3d4abcdabd6d8f90b9e6d6612adb1f0bc5a8f0470fa162438d4c3d"
 metafile = true
 
 [[files]]

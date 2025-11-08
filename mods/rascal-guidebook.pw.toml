@@ -1,13 +1,13 @@
 name = "Rascal's Field Guide"
-filename = "rascal-guidebook-1.1.jar"
+filename = "rascal-guidebook-1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dsoOMJ4a/versions/bMSm7oGX/rascal-guidebook-1.1.jar"
+url = "https://cdn.modrinth.com/data/dsoOMJ4a/versions/TY2NkMNE/rascal-guidebook-1.2.jar"
 hash-format = "sha512"
-hash = "85eb29526d7f48e6e2d1ed6230d7026892b4c0170055af276529b2fc7c8850e59c34f4f008b2102bcd21a2dd4f20d3679944f9ff701fe7f6a56d0bbe5130adb3"
+hash = "2539115721f315276a6fb050cf62363fa3a9241d6649543d6e20962954d1f13d2ff08adbfed20f4c9d1f36f2efdc25330a1e1e3c77dcf23b77f47ae3ffb7ec54"
 
 [update]
 [update.modrinth]
 mod-id = "dsoOMJ4a"
-version = "bMSm7oGX"
+version = "TY2NkMNE"
